@@ -1,32 +1,20 @@
-# React + TypeScript + Vite
+# FakeHire frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+React 19 + TypeScript app built with Vite, using [Mantine](https://mantine.dev) components, Tabler icons, Motion
+animations, React Router and Recharts. See the [main README](../README.md) for the full project.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```bash
+npm install
+npm run dev      # http://localhost:5173 (API calls to /api are proxied to http://localhost:8000)
+npm run build    # production build in dist/ (served by the FastAPI backend)
+npm run lint     # oxlint
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+| Path | What it is |
+|---|---|
+| `src/pages/` | Dashboard, CheckJob, ModelLab, ScamPatterns, About |
+| `src/components/ui.tsx` | Shared UI: page header, stat and chart cards, risk gauge and badge, legend |
+| `src/api.ts` | Typed client for the FastAPI backend |
+| `src/theme.ts` | Mantine theme and the chart palette (light and dark) |
+| `src/history.ts` | Recent checks kept in `localStorage` for the dashboard |
+| `src/hooks.tsx` | Data loading and chart helpers |
