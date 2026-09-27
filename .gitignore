@@ -14,4 +14,7 @@ __pycache__/
 # Secrets / local
 .env
 kaggle.json
-.streamlit/secrets.toml
+
+# Frontend
+frontend/node_modules/
+frontend/dist/

@@ -38,7 +38,7 @@ META_COLUMNS = NUMERIC_FEATURES + CATEGORICAL_FIELDS
 
 
 def _per_100_words(count, words):
-    return 100.0 * count / max(words, 1)
+    return 100.0 * count / words.clip(lower=1)
 
 
 def meta_features(df: pd.DataFrame) -> pd.DataFrame:

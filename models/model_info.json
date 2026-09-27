@@ -1,0 +1,30 @@
+{
+  "final_model": "Stacking",
+  "best_text": "Logistic Regression",
+  "best_meta": "Random Forest",
+  "threshold": 0.4719,
+  "binary_defaults": {
+    "has_company_logo": 1.0,
+    "has_questions": 0.0,
+    "telecommuting": 0.0
+  },
+  "meta_columns": [
+    "has_company_logo",
+    "has_questions",
+    "telecommuting",
+    "salary_given",
+    "company_profile_missing",
+    "log_word_count",
+    "money_words",
+    "urgency_words",
+    "contact_app_words",
+    "url_count",
+    "email_count",
+    "phone_count",
+    "caps_ratio",
+    "exclamations",
+    "employment_type",
+    "required_experience",
+    "required_education"
+  ]
+}

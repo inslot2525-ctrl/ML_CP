@@ -1,0 +1,5467 @@
+{
+ "k": 8,
+ "k_range": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "inertia": [
+  674.4055905336804,
+  643.8571700623835,
+  617.9383419746242,
+  598.1482141824465,
+  573.4159551657727,
+  558.1845122474639,
+  538.0555136633346,
+  518.3791405844983,
+  496.85141001369783
+ ],
+ "silhouette": [
+  0.05871967309773055,
+  0.07882011911965266,
+  0.08143991327123644,
+  0.108796481382471,
+  0.11892573399974815,
+  0.12419207025314492,
+  0.14864891393161908,
+  0.16447780962178973,
+  0.1989885516009749
+ ],
+ "pca_explained_variance": [
+  0.0835,
+  0.0579
+ ],
+ "clusters": [
+  {
+   "id": 0,
+   "name": "Easy cash / get-rich-quick",
+   "size": 34,
+   "top_terms": [
+    "cash",
+    "free",
+    "day",
+    "extra",
+    "dollars",
+    "start",
+    "zero",
+    "fee",
+    "earn",
+    "suitable",
+    "totally",
+    "jobs"
+   ],
+   "example_titles": [
+    "Urgent Jobs (Part Time Workers Needed)",
+    "Weekly CASH Jobs, Hiring Part Time Workers.",
+    "CASH In Hand Job (Part-Time Staff Needed)",
+    "Part Time Staff Needed, Weekend Cash Job.",
+    "Great Part Time Jobs & Cash In Hand Jobs.",
+    "URGENT Full & Part Time Workers Needed."
+   ],
+   "telecommuting_rate": 0.0,
+   "no_logo_rate": 1.0
+  },
+  {
+   "id": 1,
+   "name": "Income opportunity / MLM-style sales",
+   "size": 222,
+   "top_terms": [
+    "sales",
+    "money",
+    "dollars",
+    "service",
+    "looking",
+    "business",
+    "people",
+    "income",
+    "paid",
+    "customer",
+    "home",
+    "opportunity"
+   ],
+   "example_titles": [
+    "Customer Service Representative",
+    "Account Sales Managers $80-$130,000/yr",
+    "Network Marketing",
+    "Agency Sales Managers $150-$175,000/yr",
+    "Optical Sales",
+    "Sales Representative"
+   ],
+   "telecommuting_rate": 0.10810810810810811,
+   "no_logo_rate": 0.6036036036036037
+  },
+  {
+   "id": 2,
+   "name": "Fake recruiter & signing bonus",
+   "size": 73,
+   "top_terms": [
+    "bonus",
+    "recruiting",
+    "signing",
+    "candidates",
+    "aptitude",
+    "product",
+    "software",
+    "referral",
+    "engineering",
+    "staffing",
+    "development",
+    "events"
+   ],
+   "example_titles": [
+    "Senior Engineering Product Manager",
+    "Director of Technical Operations",
+    "Mobile Developer-Back End",
+    "Software Engineer | Forecasting & Optimization",
+    "Senior QA Engineer ",
+    "Director of Product Management"
+   ],
+   "telecommuting_rate": 0.0136986301369863,
+   "no_logo_rate": 0.06849315068493156
+  },
+  {
+   "id": 3,
+   "name": "Work-from-home typing / online jobs",
+   "size": 46,
+   "top_terms": [
+    "started",
+    "start",
+    "entry",
+    "internet",
+    "typing",
+    "home",
+    "need",
+    "access",
+    "earn",
+    "dollars",
+    "data",
+    "available"
+   ],
+   "example_titles": [
+    "Home Based Payroll Typist/Data Entry Clerks Positions Available",
+    "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily ",
+    "Payroll Data Coordinator Positions - Earn $100-$200 Daily ",
+    "Home  Based Typist/ Data Entry Clerk",
+    "Photoshop master",
+    "Home Based Typist (Full/Part Time)"
+   ],
+   "telecommuting_rate": 0.021739130434782608,
+   "no_logo_rate": 1.0
+  },
+  {
+   "id": 4,
+   "name": "Oil & gas jobs abroad",
+   "size": 52,
+   "top_terms": [
+    "aker",
+    "gas",
+    "oil",
+    "global",
+    "engineering",
+    "solutions",
+    "colleagues",
+    "future",
+    "production",
+    "discoveries",
+    "employ",
+    "industry"
+   ],
+   "example_titles": [
+    "Lead Mechanical Engineer",
+    "HSE Manager",
+    "Mechanical Assembly & Test Technician",
+    "Principal/Senior Mechanical Engineer (Package Equipment)",
+    "Structural Engineer",
+    "Mechanical Technician"
+   ],
+   "telecommuting_rate": 0.0,
+   "no_logo_rate": 0.40384615384615385
+  },
+  {
+   "id": 5,
+   "name": "Admin / data entry / accounting",
+   "size": 232,
+   "top_terms": [
+    "administrative",
+    "assistant",
+    "entry",
+    "office",
+    "data",
+    "customer",
+    "duties",
+    "accounting",
+    "excellent",
+    "communication",
+    "excel",
+    "service"
+   ],
+   "example_titles": [
+    "Data Entry Admin/Clerical Positions - Work From Home",
+    "Administrative Assistant",
+    "Data Entry",
+    "Payroll Clerk",
+    " Payroll Data Entry Clerk Position - Earn $100-$200 Daily ",
+    "Lawn and Maintenance Contractors "
+   ],
+   "telecommuting_rate": 0.15948275862068967,
+   "no_logo_rate": 0.9051724137931034
+  },
+  {
+   "id": 6,
+   "name": "Professional roles (copied real ads)",
+   "size": 186,
+   "top_terms": [
+    "management",
+    "years",
+    "project",
+    "engineering",
+    "services",
+    "quality",
+    "manager",
+    "technical",
+    "business",
+    "development",
+    "systems",
+    "knowledge"
+   ],
+   "example_titles": [
+    "Executive Chef",
+    "Call Center Representative I",
+    "IC&E Technician",
+    "Technician Instrument & Controls ",
+    "Health + Safety Professional",
+    "Health + Environmental Professional"
+   ],
+   "telecommuting_rate": 0.005376344086021506,
+   "no_logo_rate": 0.6021505376344086
+  },
+  {
+   "id": 7,
+   "name": "Cruise ship & hospitality",
+   "size": 21,
+   "top_terms": [
+    "cruise",
+    "board",
+    "ultra",
+    "free",
+    "tax",
+    "luxury",
+    "wanting",
+    "speaker",
+    "en",
+    "visa",
+    "wifi",
+    "accommodation"
+   ],
+   "example_titles": [
+    "Cruise Staff Wanted *URGENT*"
+   ],
+   "telecommuting_rate": 0.0,
+   "no_logo_rate": 1.0
+  }
+ ],
+ "points": [
+  {
+   "x": -0.1238,
+   "y": 0.0866,
+   "cluster": 6,
+   "title": "IC&E Technician"
+  },
+  {
+   "x": -0.0852,
+   "y": 0.0503,
+   "cluster": 1,
+   "title": "Forward Cap."
+  },
+  {
+   "x": -0.13,
+   "y": 0.0038,
+   "cluster": 6,
+   "title": "Technician Instrument & Controls "
+  },
+  {
+   "x": 0.2123,
+   "y": 0.05,
+   "cluster": 1,
+   "title": "Sales Executive"
+  },
+  {
+   "x": -0.1202,
+   "y": 0.0854,
+   "cluster": 6,
+   "title": "IC&E Technician Mt Poso"
+  },
+  {
+   "x": 0.2595,
+   "y": 0.1443,
+   "cluster": 1,
+   "title": "Financing Auto(car) sales"
+  },
+  {
+   "x": 0.0754,
+   "y": -0.5967,
+   "cluster": 5,
+   "title": "Admin Assistant/ Receptionist "
+  },
+  {
+   "x": -0.2365,
+   "y": -0.1697,
+   "cluster": 6,
+   "title": "Technology Consultant - Outside Sales  "
+  },
+  {
+   "x": -0.2547,
+   "y": 0.1627,
+   "cluster": 2,
+   "title": "Senior Engineering Product Manager"
+  },
+  {
+   "x": -0.3256,
+   "y": -0.021,
+   "cluster": 6,
+   "title": "Quality Improvement Manager "
+  },
+  {
+   "x": -0.5144,
+   "y": 0.2755,
+   "cluster": 4,
+   "title": "Lead Mechanical Engineer"
+  },
+  {
+   "x": -0.3501,
+   "y": 0.0353,
+   "cluster": 6,
+   "title": "Director of Strategy"
+  },
+  {
+   "x": 0.0164,
+   "y": 0.1135,
+   "cluster": 1,
+   "title": "UST Testing Technician II "
+  },
+  {
+   "x": -0.2148,
+   "y": 0.1213,
+   "cluster": 2,
+   "title": "Director of Strategy"
+  },
+  {
+   "x": -0.1474,
+   "y": 0.064,
+   "cluster": 6,
+   "title": "Health + Safety Professional"
+  },
+  {
+   "x": 0.0413,
+   "y": 0.1423,
+   "cluster": 1,
+   "title": "UST Testing Technician II "
+  },
+  {
+   "x": -0.1485,
+   "y": 0.1777,
+   "cluster": 2,
+   "title": "Project Manager: Engineer"
+  },
+  {
+   "x": -0.13,
+   "y": 0.0038,
+   "cluster": 6,
+   "title": "Technician Instrument & Controls "
+  },
+  {
+   "x": -0.1824,
+   "y": 0.0558,
+   "cluster": 6,
+   "title": "Project Controls Technician"
+  },
+  {
+   "x": -0.1561,
+   "y": -0.1669,
+   "cluster": 6,
+   "title": "Technical & Customer Support Associates"
+  },
+  {
+   "x": 0.0549,
+   "y": -0.0798,
+   "cluster": 1,
+   "title": "Service Associate"
+  },
+  {
+   "x": -0.0072,
+   "y": 0.0548,
+   "cluster": 6,
+   "title": "Executive/Head Chef"
+  },
+  {
+   "x": -0.1871,
+   "y": 0.0902,
+   "cluster": 2,
+   "title": "Health & Environmental Professional"
+  },
+  {
+   "x": -0.0783,
+   "y": 0.0298,
+   "cluster": 6,
+   "title": "EXECUTIVE SOUS CHEF"
+  },
+  {
+   "x": -0.0027,
+   "y": -0.5059,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": 0.0671,
+   "y": -0.285,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": 0.0671,
+   "y": -0.285,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": -0.4587,
+   "y": 0.0201,
+   "cluster": 6,
+   "title": "Big Data Engineer"
+  },
+  {
+   "x": -0.1766,
+   "y": 0.0273,
+   "cluster": 6,
+   "title": "Health + Environmental Professional"
+  },
+  {
+   "x": 0.1809,
+   "y": 0.096,
+   "cluster": 1,
+   "title": "Small Business Benefits Consultant"
+  },
+  {
+   "x": -0.1646,
+   "y": 0.0806,
+   "cluster": 6,
+   "title": "Clinical Education Manager - Surgical Services "
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": -0.0154,
+   "y": 0.0082,
+   "cluster": 6,
+   "title": "Informatica/ Etl Tester"
+  },
+  {
+   "x": 0.1076,
+   "y": 0.0421,
+   "cluster": 1,
+   "title": " JOB VACANCIES AT MONTCALM LUXURY HOTEL LONDON."
+  },
+  {
+   "x": -0.4811,
+   "y": 0.2754,
+   "cluster": 4,
+   "title": "SAP Support Advisor"
+  },
+  {
+   "x": -0.5531,
+   "y": 0.2292,
+   "cluster": 4,
+   "title": "HSE Manager"
+  },
+  {
+   "x": 0.0892,
+   "y": -0.2296,
+   "cluster": 5,
+   "title": "administrative assistance "
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": -0.4236,
+   "y": 0.2477,
+   "cluster": 4,
+   "title": "Mechanical Assembly & Test Technician"
+  },
+  {
+   "x": -0.4699,
+   "y": 0.3318,
+   "cluster": 4,
+   "title": "Principal/Senior Mechanical Engineer (Package Equipment)"
+  },
+  {
+   "x": -0.4396,
+   "y": 0.3059,
+   "cluster": 4,
+   "title": "Structural Engineer"
+  },
+  {
+   "x": 0.1034,
+   "y": -0.1342,
+   "cluster": 5,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": -0.5314,
+   "y": 0.366,
+   "cluster": 4,
+   "title": "Automation Software Engineer"
+  },
+  {
+   "x": -0.4274,
+   "y": 0.3265,
+   "cluster": 4,
+   "title": "Mechanical Technician"
+  },
+  {
+   "x": -0.5086,
+   "y": 0.2736,
+   "cluster": 4,
+   "title": "Head of machining department"
+  },
+  {
+   "x": -0.5867,
+   "y": 0.2775,
+   "cluster": 4,
+   "title": "SURF (Subsea Umbilical Riser Flowline) Development Engineer"
+  },
+  {
+   "x": 0.171,
+   "y": 0.0485,
+   "cluster": 1,
+   "title": "KMC "
+  },
+  {
+   "x": 0.0646,
+   "y": -0.2074,
+   "cluster": 5,
+   "title": "Data entry"
+  },
+  {
+   "x": -0.5535,
+   "y": 0.2847,
+   "cluster": 4,
+   "title": "Hardware/Electrical Engineer"
+  },
+  {
+   "x": -0.0441,
+   "y": 0.1783,
+   "cluster": 2,
+   "title": "Mobile Developer-Back End"
+  },
+  {
+   "x": -0.5697,
+   "y": 0.2917,
+   "cluster": 4,
+   "title": "Facilities Development Engineer"
+  },
+  {
+   "x": -0.0244,
+   "y": -0.4278,
+   "cluster": 5,
+   "title": "Customer service/ Data Entry "
+  },
+  {
+   "x": -0.4228,
+   "y": 0.2095,
+   "cluster": 6,
+   "title": "Java Developer"
+  },
+  {
+   "x": -0.4445,
+   "y": 0.3249,
+   "cluster": 4,
+   "title": "Contract - Design Engineer"
+  },
+  {
+   "x": 0.0162,
+   "y": -0.3375,
+   "cluster": 5,
+   "title": "Assistant Account position!!! "
+  },
+  {
+   "x": -0.4699,
+   "y": 0.3272,
+   "cluster": 4,
+   "title": "  Discipline Manager Civil, Structural, Marine, Architectural"
+  },
+  {
+   "x": -0.3719,
+   "y": 0.3356,
+   "cluster": 4,
+   "title": "Subsea Process System Engineer"
+  },
+  {
+   "x": -0.5086,
+   "y": 0.2736,
+   "cluster": 4,
+   "title": "Head of machining department"
+  },
+  {
+   "x": -0.444,
+   "y": 0.2398,
+   "cluster": 4,
+   "title": "Management System Administrator"
+  },
+  {
+   "x": 0.0653,
+   "y": 0.0317,
+   "cluster": 1,
+   "title": "Maintenance Supervisor "
+  },
+  {
+   "x": -0.376,
+   "y": 0.3613,
+   "cluster": 4,
+   "title": "Industrial Mechanic"
+  },
+  {
+   "x": -0.4763,
+   "y": 0.32,
+   "cluster": 4,
+   "title": "   Piping Material Engineer"
+  },
+  {
+   "x": -0.5585,
+   "y": 0.1974,
+   "cluster": 4,
+   "title": "Senior Mechanical Design Engineer"
+  },
+  {
+   "x": -0.4892,
+   "y": 0.3083,
+   "cluster": 4,
+   "title": "Electrical Technician III"
+  },
+  {
+   "x": -0.4675,
+   "y": 0.2883,
+   "cluster": 4,
+   "title": " CAD Operator"
+  },
+  {
+   "x": -0.0228,
+   "y": -0.2444,
+   "cluster": 5,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.1447,
+   "y": 0.0257,
+   "cluster": 1,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": 0.0275,
+   "y": -0.0306,
+   "cluster": 1,
+   "title": "Food and Beverage Director"
+  },
+  {
+   "x": -0.1663,
+   "y": 0.1695,
+   "cluster": 2,
+   "title": "Software Engineer | Forecasting & Optimization"
+  },
+  {
+   "x": -0.2453,
+   "y": 0.1562,
+   "cluster": 2,
+   "title": "Director of Product Marketing for Advertisers "
+  },
+  {
+   "x": -0.0442,
+   "y": -0.5186,
+   "cluster": 5,
+   "title": "Administrative Assistant/Receptionist "
+  },
+  {
+   "x": -0.159,
+   "y": 0.1922,
+   "cluster": 2,
+   "title": "Senior QA Engineer "
+  },
+  {
+   "x": -0.2896,
+   "y": 0.2243,
+   "cluster": 2,
+   "title": "Director of Product Management"
+  },
+  {
+   "x": -0.1726,
+   "y": 0.2656,
+   "cluster": 2,
+   "title": "Director of Technical Operations"
+  },
+  {
+   "x": -0.3176,
+   "y": 0.2448,
+   "cluster": 6,
+   "title": "Urgent Requirement For The Position Technical Lead - Rhomobile Technical Mobility Lead Developer"
+  },
+  {
+   "x": -0.0701,
+   "y": -0.3821,
+   "cluster": 5,
+   "title": "Customer Service Administrator"
+  },
+  {
+   "x": -0.4179,
+   "y": 0.0377,
+   "cluster": 6,
+   "title": "Developer and Database Administrator  Pittsburgh, PA"
+  },
+  {
+   "x": 0.0686,
+   "y": -0.1428,
+   "cluster": 1,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": -0.194,
+   "y": -0.453,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": -0.1042,
+   "y": -0.2976,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": 0.0877,
+   "y": -0.2079,
+   "cluster": 5,
+   "title": "Assistant Accountant/immediate start"
+  },
+  {
+   "x": -0.3335,
+   "y": -0.1997,
+   "cluster": 6,
+   "title": "Compensation Consultant, Toronto, ON, Canada"
+  },
+  {
+   "x": -0.4217,
+   "y": -0.0677,
+   "cluster": 6,
+   "title": "Marketing Database Decision Strategy Consultant "
+  },
+  {
+   "x": 0.1243,
+   "y": 0.0082,
+   "cluster": 1,
+   "title": "Support Team Member"
+  },
+  {
+   "x": -0.0038,
+   "y": -0.4293,
+   "cluster": 5,
+   "title": "Church Administrator/ Secretary"
+  },
+  {
+   "x": -0.4654,
+   "y": -0.0297,
+   "cluster": 6,
+   "title": "LEAN Program Manager, Carol Stream, IL"
+  },
+  {
+   "x": 0.1643,
+   "y": -0.3993,
+   "cluster": 5,
+   "title": "Data Entry Clerk"
+  },
+  {
+   "x": -0.1693,
+   "y": -0.272,
+   "cluster": 6,
+   "title": "Customer Assistant"
+  },
+  {
+   "x": -0.4931,
+   "y": 0.1163,
+   "cluster": 6,
+   "title": "Strategic Sourcing Engineer   2053"
+  },
+  {
+   "x": 0.0706,
+   "y": -0.2643,
+   "cluster": 5,
+   "title": "Administrative Assistant/Customer Service"
+  },
+  {
+   "x": -0.2491,
+   "y": 0.0252,
+   "cluster": 6,
+   "title": "Senior Local Government Affairs Representative"
+  },
+  {
+   "x": -0.064,
+   "y": -0.0753,
+   "cluster": 1,
+   "title": "Bilingual Retail Demonstrator"
+  },
+  {
+   "x": 0.2102,
+   "y": 0.2398,
+   "cluster": 1,
+   "title": "Earn Money Working From Home"
+  },
+  {
+   "x": 0.3031,
+   "y": 0.1518,
+   "cluster": 1,
+   "title": "Earn the Income You Deserve"
+  },
+  {
+   "x": 0.4789,
+   "y": 0.2039,
+   "cluster": 3,
+   "title": "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4789,
+   "y": 0.2039,
+   "cluster": 3,
+   "title": "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4747,
+   "y": 0.2148,
+   "cluster": 3,
+   "title": "Payroll Data Coordinator Positions - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4747,
+   "y": 0.2148,
+   "cluster": 3,
+   "title": "Payroll Data Coordinator Positions - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4747,
+   "y": 0.2148,
+   "cluster": 3,
+   "title": "Payroll Data Coordinator Positions - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": -0.1558,
+   "y": 0.0008,
+   "cluster": 6,
+   "title": "Info Tech Personnel"
+  },
+  {
+   "x": 0.0802,
+   "y": 0.0465,
+   "cluster": 1,
+   "title": "Class A - CDL Driver - Doubles Endorsed"
+  },
+  {
+   "x": -0.293,
+   "y": 0.0941,
+   "cluster": 6,
+   "title": "Process Engineer Mechanical"
+  },
+  {
+   "x": -0.1321,
+   "y": 0.0023,
+   "cluster": 6,
+   "title": "Urgent Requirement : Senior Exchange & Active Directory Systems Administrator for Qatar."
+  },
+  {
+   "x": 0.0258,
+   "y": 0.0899,
+   "cluster": 1,
+   "title": "Immediate Opening : Oracle Developer for  Bahrain"
+  },
+  {
+   "x": 0.1447,
+   "y": 0.0257,
+   "cluster": 1,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": 0.027,
+   "y": -0.0304,
+   "cluster": 1,
+   "title": "Food and Beverage Director"
+  },
+  {
+   "x": -0.0079,
+   "y": -0.2832,
+   "cluster": 5,
+   "title": "Customer Assistant"
+  },
+  {
+   "x": 0.0519,
+   "y": -0.2623,
+   "cluster": 5,
+   "title": "customer service representative"
+  },
+  {
+   "x": 0.0049,
+   "y": 0.0489,
+   "cluster": 6,
+   "title": "Executive Chef"
+  },
+  {
+   "x": -0.3029,
+   "y": 0.0268,
+   "cluster": 6,
+   "title": "FULL-TIME opportunity for  Technical Project manager"
+  },
+  {
+   "x": -0.2274,
+   "y": 0.0034,
+   "cluster": 6,
+   "title": "Business Development Manager"
+  },
+  {
+   "x": -0.3898,
+   "y": 0.0782,
+   "cluster": 6,
+   "title": "Senior Engineer"
+  },
+  {
+   "x": 0.1262,
+   "y": 0.083,
+   "cluster": 1,
+   "title": "Account Sales Managers $80-$130,000/yr"
+  },
+  {
+   "x": 0.1447,
+   "y": 0.0257,
+   "cluster": 1,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": 0.1262,
+   "y": 0.083,
+   "cluster": 1,
+   "title": "Account Sales Managers $80-$130,000/yr"
+  },
+  {
+   "x": 0.1276,
+   "y": 0.0898,
+   "cluster": 1,
+   "title": "Agency Sales Managers $150-$175,000/yr"
+  },
+  {
+   "x": 0.1293,
+   "y": 0.0805,
+   "cluster": 1,
+   "title": "Account Sales Managers $80-$130,000/yr"
+  },
+  {
+   "x": 0.1263,
+   "y": 0.0859,
+   "cluster": 1,
+   "title": "Agency Sales Managers $150-$175,000/yr"
+  },
+  {
+   "x": 0.0412,
+   "y": -0.2056,
+   "cluster": 5,
+   "title": "Church Administrator/ Secretary"
+  },
+  {
+   "x": -0.1208,
+   "y": -0.2105,
+   "cluster": 1,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": -0.3287,
+   "y": -0.0478,
+   "cluster": 6,
+   "title": "software development life cycle"
+  },
+  {
+   "x": -0.4923,
+   "y": 0.0565,
+   "cluster": 6,
+   "title": "Senior Geologist"
+  },
+  {
+   "x": -0.1087,
+   "y": -0.4975,
+   "cluster": 5,
+   "title": "Administrative Assistant/Receptionist "
+  },
+  {
+   "x": 0.1064,
+   "y": 0.0732,
+   "cluster": 1,
+   "title": "Earn a nice part time PAY!"
+  },
+  {
+   "x": -0.1865,
+   "y": 0.1179,
+   "cluster": 6,
+   "title": "Project Manager: Mechanical"
+  },
+  {
+   "x": 0.1447,
+   "y": 0.0257,
+   "cluster": 1,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": -0.2208,
+   "y": 0.1588,
+   "cluster": 6,
+   "title": "Project Manager: Engineer"
+  },
+  {
+   "x": 0.012,
+   "y": -0.2434,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": 0.1023,
+   "y": -0.166,
+   "cluster": 5,
+   "title": "Administrative Assitstant"
+  },
+  {
+   "x": 0.2021,
+   "y": -0.4285,
+   "cluster": 5,
+   "title": "DATA ENTRY/RECEPTIONIST"
+  },
+  {
+   "x": -0.1667,
+   "y": -0.2248,
+   "cluster": 6,
+   "title": "CUSTOMER SERVICE REPRESENTATIVE"
+  },
+  {
+   "x": 0.0782,
+   "y": -0.0822,
+   "cluster": 5,
+   "title": "Payroll Clerk"
+  },
+  {
+   "x": -0.1156,
+   "y": -0.1795,
+   "cluster": 6,
+   "title": "CUSTOMER SERVICES REP( FULL TIME POSITION)"
+  },
+  {
+   "x": 0.1986,
+   "y": 0.0056,
+   "cluster": 1,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": -0.5672,
+   "y": 0.169,
+   "cluster": 4,
+   "title": "Senior Mechanical Design Engineer"
+  },
+  {
+   "x": -0.5605,
+   "y": 0.1434,
+   "cluster": 4,
+   "title": "Principal Engineer"
+  },
+  {
+   "x": -0.4821,
+   "y": 0.3153,
+   "cluster": 4,
+   "title": "Discipline Manager Civil, Structural, Marine, Architectural"
+  },
+  {
+   "x": -0.449,
+   "y": 0.2852,
+   "cluster": 4,
+   "title": "Structural Engineer"
+  },
+  {
+   "x": -0.5298,
+   "y": 0.2566,
+   "cluster": 4,
+   "title": "Assembly & Test Engineer"
+  },
+  {
+   "x": -0.527,
+   "y": 0.2278,
+   "cluster": 4,
+   "title": "Project QA Engineer"
+  },
+  {
+   "x": -0.4543,
+   "y": 0.2117,
+   "cluster": 4,
+   "title": "Management System Administrator"
+  },
+  {
+   "x": -0.3641,
+   "y": 0.3214,
+   "cluster": 4,
+   "title": "Subsea Process Plant Layout Designer"
+  },
+  {
+   "x": 0.133,
+   "y": 0.0607,
+   "cluster": 1,
+   "title": "Sales Representative"
+  },
+  {
+   "x": -0.5132,
+   "y": -0.0208,
+   "cluster": 6,
+   "title": "Oil/Gas Asset Manager"
+  },
+  {
+   "x": 0.1447,
+   "y": 0.0257,
+   "cluster": 1,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": 0.1127,
+   "y": -0.1738,
+   "cluster": 5,
+   "title": "Customer Service Rep"
+  },
+  {
+   "x": -0.0481,
+   "y": 0.0847,
+   "cluster": 1,
+   "title": "Senior Sales Professionals"
+  },
+  {
+   "x": 0.0607,
+   "y": -0.0563,
+   "cluster": 1,
+   "title": "Service Associate"
+  },
+  {
+   "x": 0.1225,
+   "y": 0.1058,
+   "cluster": 1,
+   "title": "Web design intern"
+  },
+  {
+   "x": -0.0785,
+   "y": -0.1121,
+   "cluster": 6,
+   "title": "Code Compliance Officer"
+  },
+  {
+   "x": -0.0903,
+   "y": -0.2081,
+   "cluster": 6,
+   "title": " MAIL CLERK"
+  },
+  {
+   "x": -0.003,
+   "y": -0.2068,
+   "cluster": 5,
+   "title": "Mortgage Customer Service Coordinator (Call Center)"
+  },
+  {
+   "x": -0.0445,
+   "y": -0.2248,
+   "cluster": 5,
+   "title": "Collection Representative II"
+  },
+  {
+   "x": -0.1061,
+   "y": -0.163,
+   "cluster": 6,
+   "title": "CALL CENTER REP"
+  },
+  {
+   "x": 0.4063,
+   "y": 0.2811,
+   "cluster": 1,
+   "title": "Make Easy Money at Home "
+  },
+  {
+   "x": -0.065,
+   "y": -0.5873,
+   "cluster": 5,
+   "title": "Receptionist/Office Services Clerk"
+  },
+  {
+   "x": -0.2268,
+   "y": -0.0072,
+   "cluster": 6,
+   "title": "Human Resource Director"
+  },
+  {
+   "x": -0.0317,
+   "y": -0.1598,
+   "cluster": 5,
+   "title": "Bookkeeper FT/PT"
+  },
+  {
+   "x": 0.1535,
+   "y": 0.028,
+   "cluster": 1,
+   "title": "Optical Sales"
+  },
+  {
+   "x": -0.2727,
+   "y": -0.0288,
+   "cluster": 6,
+   "title": "Project Controller Oil and Gas Approval Center/Houston"
+  },
+  {
+   "x": 0.1006,
+   "y": 0.0703,
+   "cluster": 1,
+   "title": "We need 25 Agents growing company-See below"
+  },
+  {
+   "x": -0.067,
+   "y": -0.1359,
+   "cluster": 6,
+   "title": "Call Center Representative I"
+  },
+  {
+   "x": -0.0967,
+   "y": -0.0382,
+   "cluster": 6,
+   "title": "Call Center Representative I"
+  },
+  {
+   "x": 0.2114,
+   "y": 0.1077,
+   "cluster": 1,
+   "title": "COMPANY REPRESENTATIVE NEEDED"
+  },
+  {
+   "x": -0.1598,
+   "y": 0.0871,
+   "cluster": 6,
+   "title": "Urgently Required J2EE Developer for  Bahrain"
+  },
+  {
+   "x": -0.0982,
+   "y": -0.2064,
+   "cluster": 5,
+   "title": "Administration"
+  },
+  {
+   "x": -0.0999,
+   "y": -0.5946,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": -0.02,
+   "y": 0.112,
+   "cluster": 1,
+   "title": "Sir Awesome"
+  },
+  {
+   "x": -0.0671,
+   "y": 0.2295,
+   "cluster": 2,
+   "title": "Senior Engineering Product Manager"
+  },
+  {
+   "x": -0.1293,
+   "y": -0.5168,
+   "cluster": 5,
+   "title": "Office Assistant III"
+  },
+  {
+   "x": -0.2022,
+   "y": -0.4015,
+   "cluster": 5,
+   "title": "Position Finance Assistant"
+  },
+  {
+   "x": 0.0274,
+   "y": 0.0127,
+   "cluster": 1,
+   "title": "Military Benefits Advocate"
+  },
+  {
+   "x": -0.3167,
+   "y": -0.0574,
+   "cluster": 6,
+   "title": "Offshore Construction Superintendent"
+  },
+  {
+   "x": 0.0111,
+   "y": -0.1376,
+   "cluster": 5,
+   "title": "Call Center Representative"
+  },
+  {
+   "x": 0.139,
+   "y": -0.1086,
+   "cluster": 1,
+   "title": "Administrative Workers Wanted"
+  },
+  {
+   "x": -0.0981,
+   "y": -0.313,
+   "cluster": 5,
+   "title": "Receptionist and Office Assistant "
+  },
+  {
+   "x": -0.4805,
+   "y": -0.0768,
+   "cluster": 6,
+   "title": "Junior Engineer/Engineering Technician"
+  },
+  {
+   "x": -0.2059,
+   "y": -0.3687,
+   "cluster": 5,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": -0.0479,
+   "y": -0.4218,
+   "cluster": 5,
+   "title": "Administrative/Clerical"
+  },
+  {
+   "x": 0.1843,
+   "y": 0.1436,
+   "cluster": 1,
+   "title": "Final Expense Agent"
+  },
+  {
+   "x": -0.0819,
+   "y": -0.3508,
+   "cluster": 5,
+   "title": "Customer Service Specialist"
+  },
+  {
+   "x": -0.0598,
+   "y": -0.6432,
+   "cluster": 5,
+   "title": "Customer Assistant"
+  },
+  {
+   "x": -0.055,
+   "y": -0.1383,
+   "cluster": 1,
+   "title": "Sales Rep Needed $$$$$$$$$$$"
+  },
+  {
+   "x": 0.2082,
+   "y": 0.1969,
+   "cluster": 1,
+   "title": "Licensed Life Insurance Agent"
+  },
+  {
+   "x": -0.0221,
+   "y": -0.6395,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": 0.026,
+   "y": 0.0682,
+   "cluster": 1,
+   "title": "sales Associate"
+  },
+  {
+   "x": 0.3151,
+   "y": 0.0503,
+   "cluster": 1,
+   "title": "Customer Service Rep."
+  },
+  {
+   "x": 0.191,
+   "y": -0.0416,
+   "cluster": 1,
+   "title": "customer service agent"
+  },
+  {
+   "x": -0.4271,
+   "y": 0.2195,
+   "cluster": 4,
+   "title": "Mechanical Assembly & Test Technician"
+  },
+  {
+   "x": 0.4515,
+   "y": 0.2818,
+   "cluster": 1,
+   "title": "Easy Money"
+  },
+  {
+   "x": -0.07,
+   "y": 0.1075,
+   "cluster": 6,
+   "title": "Controls Engineer - Farmington Hills, MI"
+  },
+  {
+   "x": -0.0914,
+   "y": 0.094,
+   "cluster": 6,
+   "title": "Controls Engineer - St Louis, MO"
+  },
+  {
+   "x": 0.0091,
+   "y": 0.0592,
+   "cluster": 6,
+   "title": "Executive Chef"
+  },
+  {
+   "x": -0.0741,
+   "y": -0.0833,
+   "cluster": 1,
+   "title": "Retail Demonstrator"
+  },
+  {
+   "x": 0.0073,
+   "y": -0.1597,
+   "cluster": 5,
+   "title": "Adminstrative/Data Entry"
+  },
+  {
+   "x": -0.1184,
+   "y": 0.1492,
+   "cluster": 2,
+   "title": "Research Engineer Data Science"
+  },
+  {
+   "x": 0.5028,
+   "y": 0.2114,
+   "cluster": 3,
+   "title": "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4789,
+   "y": 0.2039,
+   "cluster": 3,
+   "title": "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.1543,
+   "y": 0.0921,
+   "cluster": 1,
+   "title": "Brand Partner"
+  },
+  {
+   "x": 0.4789,
+   "y": 0.2039,
+   "cluster": 3,
+   "title": "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": -0.1269,
+   "y": 0.1944,
+   "cluster": 2,
+   "title": "Director of Technical Operations"
+  },
+  {
+   "x": 0.4789,
+   "y": 0.2039,
+   "cluster": 3,
+   "title": "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4789,
+   "y": 0.2039,
+   "cluster": 3,
+   "title": "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4747,
+   "y": 0.2148,
+   "cluster": 3,
+   "title": "Payroll Data Coordinator Positions - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4747,
+   "y": 0.2148,
+   "cluster": 3,
+   "title": "Payroll Data Coordinator Positions - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4747,
+   "y": 0.2148,
+   "cluster": 3,
+   "title": "Payroll Data Coordinator Positions - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.0081,
+   "y": -0.4518,
+   "cluster": 5,
+   "title": "Personal Assistant Part Time..$300 Weekly"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.1558,
+   "y": -0.3781,
+   "cluster": 5,
+   "title": "Data Entry/ Administrative Position"
+  },
+  {
+   "x": -0.3292,
+   "y": -0.421,
+   "cluster": 6,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": -0.0868,
+   "y": 0.0617,
+   "cluster": 6,
+   "title": "Administrative Assistant "
+  },
+  {
+   "x": -0.2559,
+   "y": 0.1773,
+   "cluster": 6,
+   "title": "Process Safety Engineer"
+  },
+  {
+   "x": 0.1241,
+   "y": 0.0112,
+   "cluster": 1,
+   "title": "Vacancies at Grand Royale Hotel"
+  },
+  {
+   "x": -0.1321,
+   "y": 0.0023,
+   "cluster": 6,
+   "title": "Urgent Requirement : Senior Exchange & Active Directory Systems Administrator for Qatar."
+  },
+  {
+   "x": -0.1192,
+   "y": 0.0206,
+   "cluster": 6,
+   "title": "Immediate Opening: Senior Storage Administrator for Qatar"
+  },
+  {
+   "x": -0.0837,
+   "y": 0.0814,
+   "cluster": 6,
+   "title": "Senior Windows Server Security Administrator Required for  Qatar "
+  },
+  {
+   "x": 0.0223,
+   "y": 0.1091,
+   "cluster": 1,
+   "title": "Dotnet Developer Required for  Qatar "
+  },
+  {
+   "x": -0.321,
+   "y": 0.0727,
+   "cluster": 6,
+   "title": "Structural Engineer"
+  },
+  {
+   "x": 0.0348,
+   "y": 0.0888,
+   "cluster": 1,
+   "title": "Urgently Required System Administrator for  Bahrain"
+  },
+  {
+   "x": -0.0517,
+   "y": -0.5386,
+   "cluster": 5,
+   "title": "Office Assistant"
+  },
+  {
+   "x": 0.1445,
+   "y": 0.022,
+   "cluster": 1,
+   "title": "Optical Sales"
+  },
+  {
+   "x": 0.0688,
+   "y": -0.2935,
+   "cluster": 5,
+   "title": "Customer Assistant"
+  },
+  {
+   "x": -0.1816,
+   "y": -0.1202,
+   "cluster": 6,
+   "title": "Account Manager"
+  },
+  {
+   "x": -0.2891,
+   "y": 0.1589,
+   "cluster": 2,
+   "title": "Software Design Engineer"
+  },
+  {
+   "x": 0.2215,
+   "y": 0.1612,
+   "cluster": 1,
+   "title": "Network Marketing"
+  },
+  {
+   "x": 0.0173,
+   "y": -0.1525,
+   "cluster": 5,
+   "title": "Call Center Representative"
+  },
+  {
+   "x": 0.2245,
+   "y": 0.1629,
+   "cluster": 1,
+   "title": "Network Marketing"
+  },
+  {
+   "x": -0.1282,
+   "y": 0.1444,
+   "cluster": 6,
+   "title": "Construction Engineer"
+  },
+  {
+   "x": -0.1212,
+   "y": 0.1441,
+   "cluster": 6,
+   "title": "Contract Engineer"
+  },
+  {
+   "x": 0.1013,
+   "y": 0.0709,
+   "cluster": 1,
+   "title": "Part Time Opportunity for Professionals"
+  },
+  {
+   "x": 0.1262,
+   "y": 0.083,
+   "cluster": 1,
+   "title": "Account Sales Managers $80-$130,000/yr"
+  },
+  {
+   "x": 0.1263,
+   "y": 0.0859,
+   "cluster": 1,
+   "title": "Agency Sales Managers $150-$175,000/yr"
+  },
+  {
+   "x": 0.1262,
+   "y": 0.083,
+   "cluster": 1,
+   "title": "Account Sales Managers $80-$130,000/yr"
+  },
+  {
+   "x": 0.1276,
+   "y": 0.0898,
+   "cluster": 1,
+   "title": "Agency Sales Managers $150-$175,000/yr"
+  },
+  {
+   "x": 0.1263,
+   "y": 0.0859,
+   "cluster": 1,
+   "title": "Agency Sales Managers $150-$175,000/yr"
+  },
+  {
+   "x": -0.0177,
+   "y": -0.5395,
+   "cluster": 5,
+   "title": "Position Admin Assistant"
+  },
+  {
+   "x": -0.1325,
+   "y": -0.4136,
+   "cluster": 5,
+   "title": "Administrative Assistant/Office Assistant"
+  },
+  {
+   "x": -0.2684,
+   "y": -0.0793,
+   "cluster": 6,
+   "title": "Employee Relations Specialist"
+  },
+  {
+   "x": 0.0182,
+   "y": 0.1138,
+   "cluster": 1,
+   "title": "UST Testing Technician III"
+  },
+  {
+   "x": -0.4182,
+   "y": -0.0488,
+   "cluster": 6,
+   "title": "Product Insight Analyst Property and Casualty Insurance   2168"
+  },
+  {
+   "x": -0.4461,
+   "y": -0.0499,
+   "cluster": 6,
+   "title": "Project Manager New Product Introduction Aerospace"
+  },
+  {
+   "x": 0.0007,
+   "y": -0.3367,
+   "cluster": 5,
+   "title": "Receptionist Office Asst."
+  },
+  {
+   "x": -0.1841,
+   "y": -0.0031,
+   "cluster": 6,
+   "title": "Field Service Tech Capital Equipment    1970"
+  },
+  {
+   "x": -0.0779,
+   "y": -0.3271,
+   "cluster": 5,
+   "title": "Assistant Accountant"
+  },
+  {
+   "x": 0.0683,
+   "y": -0.3361,
+   "cluster": 5,
+   "title": "Admin Assistant"
+  },
+  {
+   "x": 0.0668,
+   "y": -0.3361,
+   "cluster": 5,
+   "title": "Admin Assistant TX"
+  },
+  {
+   "x": 0.1682,
+   "y": -0.096,
+   "cluster": 5,
+   "title": " Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.1682,
+   "y": -0.096,
+   "cluster": 5,
+   "title": " Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.1682,
+   "y": -0.096,
+   "cluster": 5,
+   "title": " Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": -0.2651,
+   "y": 0.0573,
+   "cluster": 6,
+   "title": "   Environmental Technician I"
+  },
+  {
+   "x": -0.1445,
+   "y": -0.3567,
+   "cluster": 5,
+   "title": "Data Entry"
+  },
+  {
+   "x": 0.3355,
+   "y": 0.0842,
+   "cluster": 1,
+   "title": " Accounting/Bookkeeping"
+  },
+  {
+   "x": 0.054,
+   "y": 0.0041,
+   "cluster": 1,
+   "title": "Physician Assistant PA Dermatology   1843"
+  },
+  {
+   "x": -0.3706,
+   "y": 0.1011,
+   "cluster": 6,
+   "title": "Manufacturing Engineer Molding   2178"
+  },
+  {
+   "x": 0.0656,
+   "y": -0.0154,
+   "cluster": 1,
+   "title": "Dispatcher"
+  },
+  {
+   "x": -0.0259,
+   "y": 0.0309,
+   "cluster": 1,
+   "title": "Market Specialists"
+  },
+  {
+   "x": -0.3918,
+   "y": -0.2176,
+   "cluster": 6,
+   "title": "Information Systems Support Specialist  "
+  },
+  {
+   "x": -0.0431,
+   "y": 0.0386,
+   "cluster": 1,
+   "title": "Travel Agent"
+  },
+  {
+   "x": -0.0546,
+   "y": 0.03,
+   "cluster": 1,
+   "title": "Travel Agent"
+  },
+  {
+   "x": -0.4713,
+   "y": -0.028,
+   "cluster": 6,
+   "title": "  Resources Change Management, Process Excellence and Change Enablement Manager"
+  },
+  {
+   "x": -0.5615,
+   "y": 0.0428,
+   "cluster": 6,
+   "title": "Senior Engineer Shawnee, KS"
+  },
+  {
+   "x": -0.539,
+   "y": 0.3673,
+   "cluster": 4,
+   "title": "Production Engineer"
+  },
+  {
+   "x": -0.5598,
+   "y": 0.2064,
+   "cluster": 4,
+   "title": "HSE Manager"
+  },
+  {
+   "x": -0.0218,
+   "y": 0.0137,
+   "cluster": 1,
+   "title": "Sales Professional- Mid Market "
+  },
+  {
+   "x": -0.477,
+   "y": -0.0938,
+   "cluster": 6,
+   "title": "Integration Engineer with HL7 & EMR."
+  },
+  {
+   "x": -0.2528,
+   "y": 0.1432,
+   "cluster": 6,
+   "title": "Urgent position for SQL BI Tester"
+  },
+  {
+   "x": -0.4749,
+   "y": -0.0747,
+   "cluster": 6,
+   "title": "HES Manager"
+  },
+  {
+   "x": -0.3301,
+   "y": 0.1042,
+   "cluster": 6,
+   "title": "Oil and Gas Operations Manager"
+  },
+  {
+   "x": -0.5354,
+   "y": 0.2455,
+   "cluster": 4,
+   "title": "Lead Mechanical Engineer"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": -0.0991,
+   "y": -0.1348,
+   "cluster": 6,
+   "title": "CENTER MANAGER"
+  },
+  {
+   "x": 0.026,
+   "y": -0.1172,
+   "cluster": 1,
+   "title": "SECURITY OFFICER "
+  },
+  {
+   "x": -0.1948,
+   "y": -0.1327,
+   "cluster": 6,
+   "title": "WAREHOUSE ASSOCIATE"
+  },
+  {
+   "x": -0.0157,
+   "y": -0.0717,
+   "cluster": 1,
+   "title": "VAN DRIVER"
+  },
+  {
+   "x": -0.1065,
+   "y": -0.1699,
+   "cluster": 6,
+   "title": "Client Audit Coordinator "
+  },
+  {
+   "x": -0.11,
+   "y": -0.164,
+   "cluster": 6,
+   "title": "CALL CENTER REP"
+  },
+  {
+   "x": 0.0148,
+   "y": -0.0881,
+   "cluster": 1,
+   "title": "CUSTOMER OPERATION MANAGER"
+  },
+  {
+   "x": 0.105,
+   "y": 0.0712,
+   "cluster": 1,
+   "title": "Looking for go getters that want to receive weekly P/T pay"
+  },
+  {
+   "x": 0.0421,
+   "y": -0.013,
+   "cluster": 6,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": 0.1423,
+   "y": 0.0086,
+   "cluster": 1,
+   "title": "Optician"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.138,
+   "y": 0.0129,
+   "cluster": 1,
+   "title": "Frame Stylist / Optician"
+  },
+  {
+   "x": 0.1731,
+   "y": -0.0073,
+   "cluster": 1,
+   "title": "Optical / Sales"
+  },
+  {
+   "x": 0.1207,
+   "y": 0.0154,
+   "cluster": 1,
+   "title": "Optician/Lab Technician"
+  },
+  {
+   "x": -0.0517,
+   "y": -0.1019,
+   "cluster": 6,
+   "title": " Accounting Clerk "
+  },
+  {
+   "x": -0.0037,
+   "y": 0.0146,
+   "cluster": 6,
+   "title": "FILE DRIVER"
+  },
+  {
+   "x": -0.067,
+   "y": -0.1359,
+   "cluster": 6,
+   "title": "Call Center Representative I"
+  },
+  {
+   "x": -0.0309,
+   "y": -0.0964,
+   "cluster": 6,
+   "title": "Call Center Representative I"
+  },
+  {
+   "x": 0.5038,
+   "y": 0.2773,
+   "cluster": 1,
+   "title": "Home Based Commission Roles"
+  },
+  {
+   "x": -0.5658,
+   "y": 0.2391,
+   "cluster": 4,
+   "title": "Project Subcontracting Manager"
+  },
+  {
+   "x": -0.4841,
+   "y": 0.3176,
+   "cluster": 4,
+   "title": "Principal/Senior Mechanical Engineer (Package Equipment)"
+  },
+  {
+   "x": 0.0028,
+   "y": 0.0482,
+   "cluster": 6,
+   "title": "Executive Chef"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": -0.387,
+   "y": 0.0803,
+   "cluster": 6,
+   "title": "CIVIL PROJECT ENGINEER"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": -0.1741,
+   "y": -0.0777,
+   "cluster": 6,
+   "title": "Market Operations Manager "
+  },
+  {
+   "x": -0.3111,
+   "y": 0.1441,
+   "cluster": 6,
+   "title": " Drilling Engineer - Exploration"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": -0.4964,
+   "y": 0.1047,
+   "cluster": 6,
+   "title": "General Manager Fabrication Aerospace   2131"
+  },
+  {
+   "x": -0.236,
+   "y": 0.2622,
+   "cluster": 2,
+   "title": "Senior Software Engineer QA Automation"
+  },
+  {
+   "x": -0.0218,
+   "y": 0.0137,
+   "cluster": 1,
+   "title": "Sales Professional- Mid Market "
+  },
+  {
+   "x": -0.523,
+   "y": 0.1524,
+   "cluster": 6,
+   "title": "Integrity Management Engineering Specialist "
+  },
+  {
+   "x": -0.2789,
+   "y": 0.1319,
+   "cluster": 6,
+   "title": " Onshore Scaffolding Coordinator"
+  },
+  {
+   "x": 0.2215,
+   "y": 0.1612,
+   "cluster": 1,
+   "title": "Network Marketing"
+  },
+  {
+   "x": 0.2215,
+   "y": 0.1612,
+   "cluster": 1,
+   "title": "Network Marketing"
+  },
+  {
+   "x": 0.2245,
+   "y": 0.1629,
+   "cluster": 1,
+   "title": "Network Marketing"
+  },
+  {
+   "x": -0.5008,
+   "y": 0.2859,
+   "cluster": 4,
+   "title": "Electrical Technician III"
+  },
+  {
+   "x": -0.4882,
+   "y": 0.1274,
+   "cluster": 6,
+   "title": "Structural Designer"
+  },
+  {
+   "x": -0.5275,
+   "y": 0.1435,
+   "cluster": 6,
+   "title": "Subsea Pipeline Engineer"
+  },
+  {
+   "x": -0.3307,
+   "y": 0.0142,
+   "cluster": 6,
+   "title": "Contract Recruitment Specialist"
+  },
+  {
+   "x": -0.5296,
+   "y": 0.1905,
+   "cluster": 6,
+   "title": "Subsea Controls Engineer "
+  },
+  {
+   "x": 0.1828,
+   "y": 0.0884,
+   "cluster": 1,
+   "title": "Military Outreach Consultant (Telecommute)"
+  },
+  {
+   "x": 0.0289,
+   "y": -0.1774,
+   "cluster": 5,
+   "title": "Writers"
+  },
+  {
+   "x": 0.0245,
+   "y": -0.0328,
+   "cluster": 1,
+   "title": "Food and Beverage Manager"
+  },
+  {
+   "x": -0.2288,
+   "y": 0.1668,
+   "cluster": 6,
+   "title": "  Mechanical Engineering Manager"
+  },
+  {
+   "x": -0.5109,
+   "y": -0.0022,
+   "cluster": 6,
+   "title": "  Manager of Project Management Organization - Engineering"
+  },
+  {
+   "x": -0.4162,
+   "y": 0.0689,
+   "cluster": 6,
+   "title": "HR PROCESS LEADER"
+  },
+  {
+   "x": -0.4494,
+   "y": -0.0898,
+   "cluster": 6,
+   "title": "Oil/Gas Technical Manager"
+  },
+  {
+   "x": -0.3207,
+   "y": 0.0572,
+   "cluster": 6,
+   "title": " SENIOR CORPORATE RECCRUITER"
+  },
+  {
+   "x": -0.3493,
+   "y": -0.1077,
+   "cluster": 6,
+   "title": "Environmental Health and Safety EHS Specialist   2177"
+  },
+  {
+   "x": -0.1751,
+   "y": 0.1957,
+   "cluster": 6,
+   "title": "Project Engineer Molding   2020"
+  },
+  {
+   "x": -0.4245,
+   "y": 0.3064,
+   "cluster": 4,
+   "title": "QC Inspector"
+  },
+  {
+   "x": -0.2599,
+   "y": 0.0849,
+   "cluster": 2,
+   "title": "QA Engineer"
+  },
+  {
+   "x": -0.1447,
+   "y": 0.0611,
+   "cluster": 6,
+   "title": "Health + Environmental Professional"
+  },
+  {
+   "x": -0.2956,
+   "y": 0.1524,
+   "cluster": 6,
+   "title": "Health and Safety Manager"
+  },
+  {
+   "x": -0.2213,
+   "y": -0.1594,
+   "cluster": 6,
+   "title": "Dispatcher"
+  },
+  {
+   "x": -0.1165,
+   "y": -0.1829,
+   "cluster": 6,
+   "title": "CUSTOMER SERVICE REP"
+  },
+  {
+   "x": -0.0927,
+   "y": -0.0107,
+   "cluster": 6,
+   "title": "Fraud Detection Analyst"
+  },
+  {
+   "x": -0.2738,
+   "y": -0.2629,
+   "cluster": 6,
+   "title": "CUSTOMER SERVICE AGENT "
+  },
+  {
+   "x": 0.0057,
+   "y": 0.0482,
+   "cluster": 6,
+   "title": "Executive Chef"
+  },
+  {
+   "x": -0.3798,
+   "y": 0.3474,
+   "cluster": 4,
+   "title": "Industrial Mechanic"
+  },
+  {
+   "x": 0.2357,
+   "y": 0.2862,
+   "cluster": 1,
+   "title": "Ux desgin"
+  },
+  {
+   "x": -0.2317,
+   "y": 0.1274,
+   "cluster": 2,
+   "title": "Senior System Engineering Manager "
+  },
+  {
+   "x": -0.1192,
+   "y": -0.3505,
+   "cluster": 5,
+   "title": "Data Entry"
+  },
+  {
+   "x": -0.106,
+   "y": 0.1848,
+   "cluster": 1,
+   "title": "Front-End Developer"
+  },
+  {
+   "x": -0.2402,
+   "y": 0.0347,
+   "cluster": 6,
+   "title": "Senior Local Government Affairs Representative"
+  },
+  {
+   "x": -0.4356,
+   "y": 0.3125,
+   "cluster": 4,
+   "title": "Mechanical Technician"
+  },
+  {
+   "x": -0.1659,
+   "y": 0.0296,
+   "cluster": 6,
+   "title": "Operating Room Director  "
+  },
+  {
+   "x": -0.187,
+   "y": 0.0377,
+   "cluster": 6,
+   "title": "Director of Peri-Anesthesia  "
+  },
+  {
+   "x": 0.0811,
+   "y": 0.0813,
+   "cluster": 1,
+   "title": "franciscan st. francis health"
+  },
+  {
+   "x": 0.227,
+   "y": 0.1251,
+   "cluster": 1,
+   "title": "Medical Surgical RN "
+  },
+  {
+   "x": 0.2221,
+   "y": 0.1239,
+   "cluster": 1,
+   "title": "Operating Room RN  "
+  },
+  {
+   "x": 0.0007,
+   "y": 0.0752,
+   "cluster": 1,
+   "title": "Professional Development Coordinator (Perioperative)  "
+  },
+  {
+   "x": 0.1381,
+   "y": 0.0918,
+   "cluster": 1,
+   "title": "Licensed Practical Nurse  "
+  },
+  {
+   "x": 0.1358,
+   "y": 0.092,
+   "cluster": 1,
+   "title": "Registered Nurse  "
+  },
+  {
+   "x": -0.0621,
+   "y": 0.0225,
+   "cluster": 1,
+   "title": "RN, SURGERY UNIT DIRECTOR  "
+  },
+  {
+   "x": -0.1113,
+   "y": -0.0791,
+   "cluster": 6,
+   "title": "RNFA Registered Nurse First Assistant  "
+  },
+  {
+   "x": -0.218,
+   "y": -0.0264,
+   "cluster": 6,
+   "title": "Production Assistant"
+  },
+  {
+   "x": 0.3348,
+   "y": -0.0036,
+   "cluster": 5,
+   "title": "Admin Clerk Remote Position"
+  },
+  {
+   "x": 0.3351,
+   "y": -0.0034,
+   "cluster": 5,
+   "title": "Remote Admin Clerk"
+  },
+  {
+   "x": 0.3528,
+   "y": 0.0033,
+   "cluster": 5,
+   "title": "Entry Level Online Data Entry/Typist "
+  },
+  {
+   "x": 0.3361,
+   "y": -0.0119,
+   "cluster": 5,
+   "title": "Admin Clerical Data Processor"
+  },
+  {
+   "x": 0.3394,
+   "y": -0.0207,
+   "cluster": 5,
+   "title": "Entry Level Office Receptionist"
+  },
+  {
+   "x": 0.3385,
+   "y": 0.0038,
+   "cluster": 5,
+   "title": "Full/PartTime Data Entry Work "
+  },
+  {
+   "x": 0.3305,
+   "y": -0.0334,
+   "cluster": 5,
+   "title": "Office Data Processing Assistant"
+  },
+  {
+   "x": 0.3331,
+   "y": -0.0071,
+   "cluster": 5,
+   "title": "Data Entry Office Support"
+  },
+  {
+   "x": 0.3349,
+   "y": -0.026,
+   "cluster": 5,
+   "title": "Receptionist / Data Entry Office Support "
+  },
+  {
+   "x": 0.3265,
+   "y": -0.0207,
+   "cluster": 5,
+   "title": "Document Processing Assistant "
+  },
+  {
+   "x": 0.3432,
+   "y": 0.0055,
+   "cluster": 5,
+   "title": "Data Entry Typist"
+  },
+  {
+   "x": -0.2239,
+   "y": -0.2165,
+   "cluster": 5,
+   "title": "Accountant"
+  },
+  {
+   "x": 0.2332,
+   "y": 0.1692,
+   "cluster": 1,
+   "title": "RN - Operating Room (OR)  "
+  },
+  {
+   "x": 0.1476,
+   "y": 0.022,
+   "cluster": 1,
+   "title": "Optical / Sales"
+  },
+  {
+   "x": 0.1094,
+   "y": -0.3314,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": -0.0342,
+   "y": -0.2954,
+   "cluster": 5,
+   "title": "Position Finance Assistant"
+  },
+  {
+   "x": 0.1544,
+   "y": 0.0293,
+   "cluster": 1,
+   "title": "Sales Representative"
+  },
+  {
+   "x": -0.3161,
+   "y": -0.0176,
+   "cluster": 6,
+   "title": "Well Test Operator"
+  },
+  {
+   "x": -0.1669,
+   "y": -0.4467,
+   "cluster": 5,
+   "title": "Position Finance Assistant"
+  },
+  {
+   "x": -0.0891,
+   "y": -0.1628,
+   "cluster": 1,
+   "title": "Marketing/sales Coordinator"
+  },
+  {
+   "x": 0.0782,
+   "y": -0.0822,
+   "cluster": 5,
+   "title": "Payroll Clerk"
+  },
+  {
+   "x": -0.1795,
+   "y": 0.1308,
+   "cluster": 2,
+   "title": "Senior System Test Engineer"
+  },
+  {
+   "x": -0.3617,
+   "y": 0.0764,
+   "cluster": 6,
+   "title": "Civil Engineer II"
+  },
+  {
+   "x": -0.2337,
+   "y": 0.113,
+   "cluster": 2,
+   "title": "Senior Engineering Product Manager"
+  },
+  {
+   "x": -0.2391,
+   "y": 0.1434,
+   "cluster": 2,
+   "title": "Software Architect "
+  },
+  {
+   "x": 0.4197,
+   "y": 0.2793,
+   "cluster": 1,
+   "title": "Advertise for me on eBay  - Part Time "
+  },
+  {
+   "x": 0.078,
+   "y": -0.0999,
+   "cluster": 1,
+   "title": "Clerical Personnel"
+  },
+  {
+   "x": 0.3915,
+   "y": 0.2977,
+   "cluster": 0,
+   "title": "Weekly CASH Jobs, Hiring Part Time Workers."
+  },
+  {
+   "x": -0.4383,
+   "y": 0.0565,
+   "cluster": 6,
+   "title": "Lead Business Analyst"
+  },
+  {
+   "x": -0.2337,
+   "y": 0.0249,
+   "cluster": 6,
+   "title": "Operator Mechanic 1 "
+  },
+  {
+   "x": -0.3547,
+   "y": 0.1428,
+   "cluster": 6,
+   "title": "DIVISION ELECTRICAL ENGINEER"
+  },
+  {
+   "x": -0.1943,
+   "y": 0.1933,
+   "cluster": 2,
+   "title": "Senior Software Engineer QA Automation"
+  },
+  {
+   "x": -0.2797,
+   "y": -0.014,
+   "cluster": 6,
+   "title": "Operator Mechanic 1 "
+  },
+  {
+   "x": 0.003,
+   "y": 0.1109,
+   "cluster": 1,
+   "title": "UTC Lead Testing Technician"
+  },
+  {
+   "x": 0.1474,
+   "y": 0.0836,
+   "cluster": 1,
+   "title": "RN OR Circulator  "
+  },
+  {
+   "x": 0.2202,
+   "y": 0.1286,
+   "cluster": 1,
+   "title": "ER Trauma RN"
+  },
+  {
+   "x": 0.224,
+   "y": 0.1306,
+   "cluster": 1,
+   "title": "PACU RN  "
+  },
+  {
+   "x": 0.2244,
+   "y": 0.1295,
+   "cluster": 1,
+   "title": "Med Surg RN "
+  },
+  {
+   "x": 0.2222,
+   "y": 0.124,
+   "cluster": 1,
+   "title": "Medical Surgical RN "
+  },
+  {
+   "x": 0.1353,
+   "y": 0.0688,
+   "cluster": 1,
+   "title": "RN OR Circulator "
+  },
+  {
+   "x": 0.0068,
+   "y": 0.0191,
+   "cluster": 1,
+   "title": "Clinical Director  "
+  },
+  {
+   "x": -0.0433,
+   "y": 0.0339,
+   "cluster": 1,
+   "title": "Manager, Perioperative Services  "
+  },
+  {
+   "x": 0.1447,
+   "y": 0.0773,
+   "cluster": 1,
+   "title": "RN PACU  "
+  },
+  {
+   "x": 0.0782,
+   "y": -0.0822,
+   "cluster": 5,
+   "title": "Payroll Clerk"
+  },
+  {
+   "x": -0.2913,
+   "y": -0.0102,
+   "cluster": 6,
+   "title": "Production Supervisor"
+  },
+  {
+   "x": -0.5633,
+   "y": 0.2627,
+   "cluster": 4,
+   "title": "Project Subcontracting Manager"
+  },
+  {
+   "x": 0.0105,
+   "y": -0.1736,
+   "cluster": 5,
+   "title": "Credit and Collections Clerk"
+  },
+  {
+   "x": 0.0782,
+   "y": -0.0822,
+   "cluster": 5,
+   "title": "Payroll Clerk"
+  },
+  {
+   "x": 0.3382,
+   "y": -0.0078,
+   "cluster": 5,
+   "title": "Data Entry / Customer Service"
+  },
+  {
+   "x": 0.0105,
+   "y": -0.1736,
+   "cluster": 5,
+   "title": "Credit and Collections Clerk"
+  },
+  {
+   "x": 0.0459,
+   "y": -0.0891,
+   "cluster": 1,
+   "title": "Payroll Clerk"
+  },
+  {
+   "x": 0.0782,
+   "y": -0.0822,
+   "cluster": 5,
+   "title": "Payroll Clerk"
+  },
+  {
+   "x": 0.3319,
+   "y": 0.0044,
+   "cluster": 5,
+   "title": "Data Processing Agent"
+  },
+  {
+   "x": 0.3404,
+   "y": -0.0117,
+   "cluster": 5,
+   "title": "Receptionist Entry Level position"
+  },
+  {
+   "x": -0.468,
+   "y": 0.0393,
+   "cluster": 6,
+   "title": " Hiring for Business Intelligence and Analytics Project Manager"
+  },
+  {
+   "x": 0.0114,
+   "y": -0.0114,
+   "cluster": 6,
+   "title": "CUSTOMER SERVICE MANAGER "
+  },
+  {
+   "x": -0.0877,
+   "y": -0.0448,
+   "cluster": 6,
+   "title": "Maintenance Specialist"
+  },
+  {
+   "x": 0.0323,
+   "y": -0.0148,
+   "cluster": 6,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": -0.5218,
+   "y": 0.3794,
+   "cluster": 4,
+   "title": "Production Engineer"
+  },
+  {
+   "x": -0.0063,
+   "y": 0.0548,
+   "cluster": 6,
+   "title": "Executive Chef"
+  },
+  {
+   "x": -0.0374,
+   "y": 0.14,
+   "cluster": 2,
+   "title": "Mobile Developer-Back End"
+  },
+  {
+   "x": -0.1023,
+   "y": 0.0026,
+   "cluster": 6,
+   "title": "Executive Sous Chef"
+  },
+  {
+   "x": 0.0196,
+   "y": -0.0065,
+   "cluster": 1,
+   "title": "Restaurant Manager - Le Meridien KL"
+  },
+  {
+   "x": 0.0183,
+   "y": -0.0076,
+   "cluster": 1,
+   "title": "Restaurant Manager"
+  },
+  {
+   "x": -0.0063,
+   "y": -0.0854,
+   "cluster": 1,
+   "title": "Rooms Division Manager"
+  },
+  {
+   "x": -0.1983,
+   "y": 0.1873,
+   "cluster": 2,
+   "title": "Director of Engineering | Applications"
+  },
+  {
+   "x": -0.0417,
+   "y": 0.1361,
+   "cluster": 2,
+   "title": "Mobile Developer-Back End "
+  },
+  {
+   "x": -0.2096,
+   "y": -0.086,
+   "cluster": 2,
+   "title": "Business Operations Associate"
+  },
+  {
+   "x": -0.2445,
+   "y": 0.1561,
+   "cluster": 2,
+   "title": "Front-End/JavaScript Engineer"
+  },
+  {
+   "x": -0.4846,
+   "y": 0.2696,
+   "cluster": 4,
+   "title": "CAD Operator"
+  },
+  {
+   "x": -0.1462,
+   "y": 0.0569,
+   "cluster": 6,
+   "title": "IC&E Technician "
+  },
+  {
+   "x": -0.4836,
+   "y": 0.1485,
+   "cluster": 4,
+   "title": "Offshore Wellhead Technician"
+  },
+  {
+   "x": -0.4159,
+   "y": 0.3256,
+   "cluster": 4,
+   "title": "QC Inspector"
+  },
+  {
+   "x": 0.1527,
+   "y": 0.0646,
+   "cluster": 5,
+   "title": "Lawn and Maintenance Contractors "
+  },
+  {
+   "x": 0.1527,
+   "y": 0.0646,
+   "cluster": 5,
+   "title": "Lawn and Maintenance Contractors "
+  },
+  {
+   "x": 0.1527,
+   "y": 0.0646,
+   "cluster": 5,
+   "title": "Lawn and Maintenance Contractors "
+  },
+  {
+   "x": 0.1527,
+   "y": 0.0646,
+   "cluster": 5,
+   "title": "Lawn and Maintenance Contractors "
+  },
+  {
+   "x": 0.1523,
+   "y": 0.0688,
+   "cluster": 5,
+   "title": "Property Preservation Field Crews"
+  },
+  {
+   "x": 0.1523,
+   "y": 0.0688,
+   "cluster": 5,
+   "title": "Property Preservation Field Crews"
+  },
+  {
+   "x": 0.1523,
+   "y": 0.0688,
+   "cluster": 5,
+   "title": "Property Preservation Field Crews"
+  },
+  {
+   "x": 0.1523,
+   "y": 0.0688,
+   "cluster": 5,
+   "title": "Property Preservation Field Crews"
+  },
+  {
+   "x": -0.187,
+   "y": 0.0268,
+   "cluster": 6,
+   "title": "Health + Safety Professional"
+  },
+  {
+   "x": -0.27,
+   "y": 0.0689,
+   "cluster": 6,
+   "title": "Plant Operator"
+  },
+  {
+   "x": -0.12,
+   "y": 0.1897,
+   "cluster": 2,
+   "title": "Director of Technical Operations"
+  },
+  {
+   "x": -0.2453,
+   "y": 0.1736,
+   "cluster": 2,
+   "title": "Director of Product Management"
+  },
+  {
+   "x": -0.1485,
+   "y": 0.025,
+   "cluster": 2,
+   "title": "Client Services Manager - SM1"
+  },
+  {
+   "x": -0.1488,
+   "y": 0.0269,
+   "cluster": 2,
+   "title": "Client Services Manager NY, NY 1"
+  },
+  {
+   "x": -0.1629,
+   "y": 0.1426,
+   "cluster": 2,
+   "title": "Senior QA Engineer "
+  },
+  {
+   "x": -0.1365,
+   "y": 0.1359,
+   "cluster": 2,
+   "title": "Software Engineer | Forecasting & Optimization"
+  },
+  {
+   "x": -0.1456,
+   "y": 0.0567,
+   "cluster": 6,
+   "title": "IC&E Technician"
+  },
+  {
+   "x": -0.1273,
+   "y": 0.1667,
+   "cluster": 2,
+   "title": "Communications Manager "
+  },
+  {
+   "x": -0.1833,
+   "y": 0.1358,
+   "cluster": 2,
+   "title": "Director of Engineering HMA Security Products"
+  },
+  {
+   "x": -0.3564,
+   "y": 0.3318,
+   "cluster": 4,
+   "title": "Subsea Process Plant Layout Designer"
+  },
+  {
+   "x": -0.4821,
+   "y": 0.1865,
+   "cluster": 4,
+   "title": "Offshore Wellhead Technician"
+  },
+  {
+   "x": -0.1199,
+   "y": 0.1219,
+   "cluster": 2,
+   "title": "Communications Manager "
+  },
+  {
+   "x": -0.1246,
+   "y": 0.1958,
+   "cluster": 2,
+   "title": "Director of Software Engineering"
+  },
+  {
+   "x": 0.0835,
+   "y": -0.1378,
+   "cluster": 1,
+   "title": "Hotel Workers Needed"
+  },
+  {
+   "x": -0.2073,
+   "y": 0.1804,
+   "cluster": 2,
+   "title": "Senior System Test Engineer"
+  },
+  {
+   "x": -0.2085,
+   "y": 0.1293,
+   "cluster": 2,
+   "title": "Director of Engineering | HMA Security Products"
+  },
+  {
+   "x": -0.5065,
+   "y": 0.3601,
+   "cluster": 4,
+   "title": "  FEA Senior engineer"
+  },
+  {
+   "x": 0.3753,
+   "y": 0.2837,
+   "cluster": 0,
+   "title": "CASH In Hand Job (Part-Time Staff Needed)"
+  },
+  {
+   "x": -0.5374,
+   "y": -0.0175,
+   "cluster": 6,
+   "title": "Hiring for Senior SAP Solution Engineer"
+  },
+  {
+   "x": -0.5148,
+   "y": 0.2802,
+   "cluster": 4,
+   "title": "Assembly & Test Engineer"
+  },
+  {
+   "x": -0.0928,
+   "y": 0.2179,
+   "cluster": 2,
+   "title": "Recruitment & Talent Acquisition Professional"
+  },
+  {
+   "x": -0.1683,
+   "y": 0.2159,
+   "cluster": 2,
+   "title": "Lead Software Engineer - Web"
+  },
+  {
+   "x": 0.0314,
+   "y": 0.0872,
+   "cluster": 1,
+   "title": "Migration Center"
+  },
+  {
+   "x": 0.0331,
+   "y": 0.0977,
+   "cluster": 1,
+   "title": "Real Services"
+  },
+  {
+   "x": -0.1188,
+   "y": 0.1439,
+   "cluster": 2,
+   "title": "Project Manager: Mechanical"
+  },
+  {
+   "x": -0.2598,
+   "y": 0.1446,
+   "cluster": 2,
+   "title": "Sr. Systems Engineering Manager"
+  },
+  {
+   "x": -0.1108,
+   "y": 0.0311,
+   "cluster": 6,
+   "title": "Technician Instrument & Controls"
+  },
+  {
+   "x": -0.1877,
+   "y": 0.2288,
+   "cluster": 2,
+   "title": "Director of Engineering | Applications"
+  },
+  {
+   "x": -0.1589,
+   "y": 0.1927,
+   "cluster": 2,
+   "title": "Research Engineer Data Science"
+  },
+  {
+   "x": -0.2918,
+   "y": 0.1275,
+   "cluster": 2,
+   "title": "QA Engineer"
+  },
+  {
+   "x": -0.186,
+   "y": 0.1788,
+   "cluster": 2,
+   "title": "Director of Engineering HMA Security Products"
+  },
+  {
+   "x": -0.0482,
+   "y": 0.1732,
+   "cluster": 2,
+   "title": "Mobile Developer-Back End "
+  },
+  {
+   "x": -0.337,
+   "y": 0.1834,
+   "cluster": 2,
+   "title": "Technical Program Manager"
+  },
+  {
+   "x": -0.1477,
+   "y": 0.1945,
+   "cluster": 2,
+   "title": "SEO Analysis"
+  },
+  {
+   "x": -0.4693,
+   "y": 0.1423,
+   "cluster": 6,
+   "title": "Information Security Manager"
+  },
+  {
+   "x": -0.4502,
+   "y": 0.1243,
+   "cluster": 6,
+   "title": "Technical Program Manager"
+  },
+  {
+   "x": -0.2227,
+   "y": 0.1761,
+   "cluster": 2,
+   "title": "Director of Engineering"
+  },
+  {
+   "x": -0.2617,
+   "y": 0.192,
+   "cluster": 2,
+   "title": "Software Architect "
+  },
+  {
+   "x": -0.3215,
+   "y": 0.1192,
+   "cluster": 2,
+   "title": "SEO Analysis"
+  },
+  {
+   "x": -0.0189,
+   "y": 0.0138,
+   "cluster": 1,
+   "title": "Sales Professional- SMB (Full-Time)"
+  },
+  {
+   "x": -0.0193,
+   "y": 0.0137,
+   "cluster": 1,
+   "title": "Sales Professional- SMB Division "
+  },
+  {
+   "x": 0.3805,
+   "y": 0.2808,
+   "cluster": 0,
+   "title": "Part Time Staff Needed, Weekend Cash Job."
+  },
+  {
+   "x": -0.2207,
+   "y": 0.1972,
+   "cluster": 6,
+   "title": "Hiring for Software Web Applications Engineer"
+  },
+  {
+   "x": -0.2674,
+   "y": 0.2059,
+   "cluster": 2,
+   "title": "Information Security Manager"
+  },
+  {
+   "x": -0.0142,
+   "y": 0.0869,
+   "cluster": 1,
+   "title": "UST Testing Technician"
+  },
+  {
+   "x": -0.1212,
+   "y": 0.1103,
+   "cluster": 2,
+   "title": "Project Controls Tech"
+  },
+  {
+   "x": -0.1554,
+   "y": 0.2,
+   "cluster": 2,
+   "title": "Process Engineer"
+  },
+  {
+   "x": 0.0186,
+   "y": 0.1325,
+   "cluster": 1,
+   "title": "UST Testing Technician"
+  },
+  {
+   "x": -0.2073,
+   "y": 0.1147,
+   "cluster": 6,
+   "title": "Plant Operator"
+  },
+  {
+   "x": 0.0299,
+   "y": 0.1343,
+   "cluster": 1,
+   "title": "UST Testing Technician III"
+  },
+  {
+   "x": 0.026,
+   "y": 0.1391,
+   "cluster": 1,
+   "title": "UTC Lead Testing Technician"
+  },
+  {
+   "x": -0.1204,
+   "y": 0.2058,
+   "cluster": 2,
+   "title": "Project Engineer"
+  },
+  {
+   "x": -0.1386,
+   "y": 0.1944,
+   "cluster": 2,
+   "title": "Process Safety Engineer"
+  },
+  {
+   "x": -0.1481,
+   "y": 0.0764,
+   "cluster": 2,
+   "title": "Client Service Manager"
+  },
+  {
+   "x": -0.0774,
+   "y": 0.0352,
+   "cluster": 2,
+   "title": "Office Manager"
+  },
+  {
+   "x": -0.146,
+   "y": 0.1172,
+   "cluster": 2,
+   "title": "Customer Success District Manager"
+  },
+  {
+   "x": -0.2989,
+   "y": 0.1003,
+   "cluster": 2,
+   "title": "Sales Engineer/Platform Support"
+  },
+  {
+   "x": -0.1683,
+   "y": 0.2159,
+   "cluster": 2,
+   "title": "Lead Software Engineer - Web"
+  },
+  {
+   "x": -0.2044,
+   "y": 0.1972,
+   "cluster": 2,
+   "title": "Product Development Engineer PLC"
+  },
+  {
+   "x": -0.2541,
+   "y": 0.1751,
+   "cluster": 2,
+   "title": "Senior System Engineering Manager "
+  },
+  {
+   "x": -0.1646,
+   "y": -0.0718,
+   "cluster": 2,
+   "title": "Accounts Receivable Specialist"
+  },
+  {
+   "x": -0.5213,
+   "y": 0.134,
+   "cluster": 6,
+   "title": "Production Manager Heavy Duty Diesel  2022"
+  },
+  {
+   "x": -0.041,
+   "y": -0.0914,
+   "cluster": 1,
+   "title": "Customer Service position"
+  },
+  {
+   "x": -0.0189,
+   "y": 0.0138,
+   "cluster": 1,
+   "title": "Sales Professional- SMB"
+  },
+  {
+   "x": -0.5211,
+   "y": 0.2541,
+   "cluster": 4,
+   "title": "Project QA Engineer"
+  },
+  {
+   "x": 0.3658,
+   "y": 0.1057,
+   "cluster": 1,
+   "title": "PART-TIME WORK FROM YOUR PLACE"
+  },
+  {
+   "x": -0.5518,
+   "y": 0.1736,
+   "cluster": 4,
+   "title": "Principal Engineer"
+  },
+  {
+   "x": 0.3251,
+   "y": 0.2517,
+   "cluster": 0,
+   "title": "Great Part Time Jobs & Cash In Hand Jobs."
+  },
+  {
+   "x": -0.1661,
+   "y": 0.1379,
+   "cluster": 2,
+   "title": "Process Engineer Mechanical"
+  },
+  {
+   "x": 0.4106,
+   "y": 0.3077,
+   "cluster": 0,
+   "title": "Urgent Jobs (Part Time Workers Needed)"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": -0.1087,
+   "y": 0.1219,
+   "cluster": 6,
+   "title": "Document Controller "
+  },
+  {
+   "x": 0.1077,
+   "y": -0.141,
+   "cluster": 5,
+   "title": "Adminstrative/Data Entry"
+  },
+  {
+   "x": -0.3607,
+   "y": 0.334,
+   "cluster": 4,
+   "title": "Subsea Process System Engineer"
+  },
+  {
+   "x": 0.4133,
+   "y": 0.0804,
+   "cluster": 3,
+   "title": "Home  Based Typist/ Data Entry Clerk"
+  },
+  {
+   "x": -0.3455,
+   "y": -0.2366,
+   "cluster": 6,
+   "title": "Vessel Coordinator"
+  },
+  {
+   "x": -0.1531,
+   "y": 0.2403,
+   "cluster": 2,
+   "title": "Director of Software Engineering"
+  },
+  {
+   "x": -0.1583,
+   "y": 0.2562,
+   "cluster": 2,
+   "title": "Design Generalist"
+  },
+  {
+   "x": 0.1099,
+   "y": 0.2084,
+   "cluster": 1,
+   "title": "Northwestern Hospital"
+  },
+  {
+   "x": 0.3122,
+   "y": 0.2307,
+   "cluster": 0,
+   "title": "URGENT Full & Part Time Workers Needed."
+  },
+  {
+   "x": -0.0845,
+   "y": -0.2266,
+   "cluster": 5,
+   "title": "Bookkeeper"
+  },
+  {
+   "x": 0.0322,
+   "y": 0.1597,
+   "cluster": 2,
+   "title": "Graphite Expert (Remote Position)"
+  },
+  {
+   "x": 0.326,
+   "y": 0.2151,
+   "cluster": 0,
+   "title": "Immediate Staff Needed For Cash Positions."
+  },
+  {
+   "x": -0.0105,
+   "y": -0.4744,
+   "cluster": 5,
+   "title": "Accounting Clerk"
+  },
+  {
+   "x": -0.396,
+   "y": 0.2327,
+   "cluster": 6,
+   "title": "Test Automation Engineer"
+  },
+  {
+   "x": 0.1277,
+   "y": -0.2215,
+   "cluster": 5,
+   "title": "Administrative Positions"
+  },
+  {
+   "x": -0.4426,
+   "y": 0.142,
+   "cluster": 6,
+   "title": "Software Development engineer"
+  },
+  {
+   "x": 0.1111,
+   "y": -0.0053,
+   "cluster": 1,
+   "title": "Nursing & Therapy Positions- Home Care"
+  },
+  {
+   "x": -0.455,
+   "y": -0.0078,
+   "cluster": 6,
+   "title": "QA Compliance Specialist "
+  },
+  {
+   "x": -0.5598,
+   "y": 0.0467,
+   "cluster": 6,
+   "title": " Sr. Process Engineer"
+  },
+  {
+   "x": -0.5402,
+   "y": -0.0723,
+   "cluster": 6,
+   "title": "Quality Specialist II, Clinical Programming"
+  },
+  {
+   "x": -0.5146,
+   "y": 0.2058,
+   "cluster": 6,
+   "title": "Process Validation Project Manager "
+  },
+  {
+   "x": -0.5332,
+   "y": 0.1411,
+   "cluster": 6,
+   "title": "Quality Engineer "
+  },
+  {
+   "x": -0.3977,
+   "y": -0.1776,
+   "cluster": 6,
+   "title": "Document Control Specialist"
+  },
+  {
+   "x": 0.058,
+   "y": -0.16,
+   "cluster": 1,
+   "title": "Customer Service Rep"
+  },
+  {
+   "x": 0.4443,
+   "y": 0.2825,
+   "cluster": 0,
+   "title": "Offering CASH Positions, Immediate Start."
+  },
+  {
+   "x": 0.3767,
+   "y": 0.2811,
+   "cluster": 0,
+   "title": "Weekly PART TIME Cash Job, Staff Required."
+  },
+  {
+   "x": -0.0692,
+   "y": -0.5268,
+   "cluster": 5,
+   "title": "Administrative"
+  },
+  {
+   "x": 0.3831,
+   "y": 0.2926,
+   "cluster": 0,
+   "title": "Part Time Students Or Workers Required."
+  },
+  {
+   "x": 0.0781,
+   "y": -0.4032,
+   "cluster": 5,
+   "title": "Customer Service"
+  },
+  {
+   "x": 0.3953,
+   "y": 0.2994,
+   "cluster": 0,
+   "title": "WEEKLY JOBS, Part Time Workers Required."
+  },
+  {
+   "x": 0.2021,
+   "y": -0.4285,
+   "cluster": 5,
+   "title": "DATA ENTRY/RECEPTIONIST"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.1121,
+   "y": -0.2685,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": 0.2559,
+   "y": 0.1314,
+   "cluster": 1,
+   "title": "Use Your Spare Time to Start Earning More"
+  },
+  {
+   "x": 0.2619,
+   "y": 0.1478,
+   "cluster": 1,
+   "title": "Call Center Representative"
+  },
+  {
+   "x": 0.0226,
+   "y": -0.1811,
+   "cluster": 5,
+   "title": "Office Manager"
+  },
+  {
+   "x": 0.366,
+   "y": 0.2579,
+   "cluster": 0,
+   "title": "Cash Job Opportunity To Immediate Start."
+  },
+  {
+   "x": 0.3397,
+   "y": 0.244,
+   "cluster": 0,
+   "title": "Part Time Cash Jobs To Immediate Starts."
+  },
+  {
+   "x": -0.0908,
+   "y": 0.0874,
+   "cluster": 6,
+   "title": "Director of Perioperative Services  "
+  },
+  {
+   "x": 0.4747,
+   "y": 0.2148,
+   "cluster": 3,
+   "title": "Payroll Data Coordinator Positions - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.033,
+   "y": 0.1062,
+   "cluster": 1,
+   "title": "PeopleSoft Financial Consultant Required for  UAE "
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.0936,
+   "y": -0.431,
+   "cluster": 5,
+   "title": "Receptionist/Secretary"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.1682,
+   "y": -0.096,
+   "cluster": 5,
+   "title": " Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.0827,
+   "y": -0.2717,
+   "cluster": 5,
+   "title": "Receptionist/Front Desk"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.065,
+   "y": -0.4051,
+   "cluster": 5,
+   "title": "Receptionist/Office Clerk"
+  },
+  {
+   "x": 0.344,
+   "y": 0.0595,
+   "cluster": 1,
+   "title": "Casual job/Immediate start "
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.3376,
+   "y": -0.0081,
+   "cluster": 5,
+   "title": "Typist / Data Processing Clerical"
+  },
+  {
+   "x": -0.2576,
+   "y": 0.2243,
+   "cluster": 6,
+   "title": "Quality Engineer "
+  },
+  {
+   "x": 0.3607,
+   "y": 0.3954,
+   "cluster": 3,
+   "title": "Photoshop master"
+  },
+  {
+   "x": 0.1501,
+   "y": 0.013,
+   "cluster": 1,
+   "title": "Optical Sales"
+  },
+  {
+   "x": 0.0698,
+   "y": -0.6006,
+   "cluster": 5,
+   "title": "Data Entry"
+  },
+  {
+   "x": 0.065,
+   "y": -0.4051,
+   "cluster": 5,
+   "title": "Receptionist/Office Clerk"
+  },
+  {
+   "x": 0.0892,
+   "y": -0.2296,
+   "cluster": 5,
+   "title": "administrative assistance "
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.0635,
+   "y": -0.5224,
+   "cluster": 5,
+   "title": "Data Entry/Administrative Assistant"
+  },
+  {
+   "x": 0.0459,
+   "y": -0.0891,
+   "cluster": 1,
+   "title": "Payroll Clerk"
+  },
+  {
+   "x": 0.1433,
+   "y": 0.0599,
+   "cluster": 1,
+   "title": "Vacancies @ Hyatt Hotel - Apply now before deadline!"
+  },
+  {
+   "x": 0.4077,
+   "y": 0.1943,
+   "cluster": 1,
+   "title": "Customer Service Rep"
+  },
+  {
+   "x": 0.1013,
+   "y": 0.1821,
+   "cluster": 1,
+   "title": "Operating Room Registered Nurses  "
+  },
+  {
+   "x": 0.5028,
+   "y": 0.2114,
+   "cluster": 3,
+   "title": "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.1907,
+   "y": 0.1325,
+   "cluster": 1,
+   "title": "Sales/marketing/advertising"
+  },
+  {
+   "x": 0.4789,
+   "y": 0.2039,
+   "cluster": 3,
+   "title": "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": -0.3501,
+   "y": -0.0319,
+   "cluster": 6,
+   "title": "Sales manager"
+  },
+  {
+   "x": 0.2238,
+   "y": 0.13,
+   "cluster": 1,
+   "title": "ICU RN  "
+  },
+  {
+   "x": 0.0392,
+   "y": -0.5464,
+   "cluster": 5,
+   "title": "Data Entry / Administrative Assitstant / Admin Clerk / Office Assistant / Customer Service Rep"
+  },
+  {
+   "x": 0.1352,
+   "y": 0.0898,
+   "cluster": 1,
+   "title": "Nurse Shift/Program Supervisor  "
+  },
+  {
+   "x": 0.1077,
+   "y": -0.1923,
+   "cluster": 5,
+   "title": "FRONT OFFICE MANAGER"
+  },
+  {
+   "x": 0.0136,
+   "y": -0.2026,
+   "cluster": 5,
+   "title": "Entry Level Medical Transcriptionist"
+  },
+  {
+   "x": 0.3337,
+   "y": -0.0205,
+   "cluster": 5,
+   "title": "Virtual Admin Assistant"
+  },
+  {
+   "x": 0.1916,
+   "y": 0.0931,
+   "cluster": 1,
+   "title": "Customer Service Representative to Enroll People in NO COST Cell Phone Program "
+  },
+  {
+   "x": -0.1123,
+   "y": -0.0094,
+   "cluster": 6,
+   "title": "Technician Instrument & Controls"
+  },
+  {
+   "x": 0.3344,
+   "y": -0.0113,
+   "cluster": 5,
+   "title": "Virtual Administrative Clerk"
+  },
+  {
+   "x": 0.1362,
+   "y": 0.0887,
+   "cluster": 1,
+   "title": "Nurse Shift/Program Supervisor"
+  },
+  {
+   "x": 0.2941,
+   "y": 0.2699,
+   "cluster": 1,
+   "title": "Job for freelancer working in Saudi Arabia"
+  },
+  {
+   "x": 0.388,
+   "y": 0.2818,
+   "cluster": 0,
+   "title": "Well Paid Cash Jobs To Start Immediately. "
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.3955,
+   "y": 0.2953,
+   "cluster": 0,
+   "title": "URGENT Job Full Time & Part Time, Cash Pay."
+  },
+  {
+   "x": 0.2989,
+   "y": 0.1974,
+   "cluster": 1,
+   "title": "Daily Money Team Representative"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": -0.1991,
+   "y": 0.0863,
+   "cluster": 6,
+   "title": "Clinical Director - Surgical Services  "
+  },
+  {
+   "x": 0.2316,
+   "y": -0.1191,
+   "cluster": 1,
+   "title": "Trainer/Recuiter Specialist"
+  },
+  {
+   "x": 0.0296,
+   "y": -0.1662,
+   "cluster": 5,
+   "title": "Writers"
+  },
+  {
+   "x": 0.3605,
+   "y": 0.2521,
+   "cluster": 0,
+   "title": "CASH JOBS, Part Time Workers Needed."
+  },
+  {
+   "x": 0.2197,
+   "y": 0.0605,
+   "cluster": 1,
+   "title": "work from home"
+  },
+  {
+   "x": 0.4116,
+   "y": 0.1546,
+   "cluster": 1,
+   "title": "Work From Home (Easy Money)"
+  },
+  {
+   "x": 0.5153,
+   "y": 0.2169,
+   "cluster": 3,
+   "title": "Home Based Typist (Full/Part Time)"
+  },
+  {
+   "x": 0.388,
+   "y": 0.2383,
+   "cluster": 0,
+   "title": "Part Time Job Work From Home, Daily Pay."
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.0633,
+   "y": -0.151,
+   "cluster": 1,
+   "title": "Customer Service Reps"
+  },
+  {
+   "x": 0.1682,
+   "y": -0.096,
+   "cluster": 5,
+   "title": " Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": -0.1782,
+   "y": -0.4335,
+   "cluster": 5,
+   "title": "Human Resources Assistant/Executive Assistant/Legal Assistant /Logistics Assistant/Data Entry Clerk /Customer Service Rep/Security Assistant.."
+  },
+  {
+   "x": 0.4063,
+   "y": 0.3158,
+   "cluster": 0,
+   "title": "Cash In Hand Jobs To Begin This Week."
+  },
+  {
+   "x": -0.0641,
+   "y": -0.1446,
+   "cluster": 1,
+   "title": "Assistant position. The best job is waiting for you!!! "
+  },
+  {
+   "x": 0.1225,
+   "y": -0.4005,
+   "cluster": 5,
+   "title": "Data Entry/ Administrative Assistant"
+  },
+  {
+   "x": 0.2756,
+   "y": -0.0566,
+   "cluster": 1,
+   "title": "Hospital Clerical/Reception: $22 - $24/hr"
+  },
+  {
+   "x": -0.0389,
+   "y": 0.0276,
+   "cluster": 1,
+   "title": "RNFA - St. Joseph Medical Center  "
+  },
+  {
+   "x": 0.428,
+   "y": -0.0161,
+   "cluster": 5,
+   "title": "Online Typist From Home"
+  },
+  {
+   "x": 0.3951,
+   "y": 0.291,
+   "cluster": 0,
+   "title": "CASH Pay Jobs (Part Time Staff Wanted)"
+  },
+  {
+   "x": 0.3033,
+   "y": 0.0383,
+   "cluster": 1,
+   "title": "Success is Knocking..."
+  },
+  {
+   "x": 0.0058,
+   "y": -0.2839,
+   "cluster": 5,
+   "title": "Data Entry, Clerical Admin, Administrative Assistant, Customer Service, Accounting, payroll Clerk, Book keeping"
+  },
+  {
+   "x": 0.065,
+   "y": -0.5334,
+   "cluster": 5,
+   "title": "Accounting Clerk - $25"
+  },
+  {
+   "x": 0.1682,
+   "y": -0.096,
+   "cluster": 5,
+   "title": " Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": -0.0188,
+   "y": -0.5816,
+   "cluster": 5,
+   "title": "Data Entry"
+  },
+  {
+   "x": 0.4789,
+   "y": 0.2039,
+   "cluster": 3,
+   "title": "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": -0.5098,
+   "y": 0.0572,
+   "cluster": 6,
+   "title": "SAP BW Developer/Architect"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.1217,
+   "y": 0.0827,
+   "cluster": 1,
+   "title": "Account Manager $80-$130,000/yr"
+  },
+  {
+   "x": 0.1077,
+   "y": -0.1923,
+   "cluster": 5,
+   "title": "FRONT OFFICE MANAGER"
+  },
+  {
+   "x": -0.0906,
+   "y": 0.07,
+   "cluster": 1,
+   "title": "Real Estate & Insurance Professionals"
+  },
+  {
+   "x": 0.1077,
+   "y": -0.1923,
+   "cluster": 5,
+   "title": "FRONT OFFICE MANAGER"
+  },
+  {
+   "x": -0.081,
+   "y": -0.5277,
+   "cluster": 5,
+   "title": "Admin Assistant Position "
+  },
+  {
+   "x": 0.1006,
+   "y": -0.1453,
+   "cluster": 1,
+   "title": "Payroll Clerk"
+  },
+  {
+   "x": 0.2245,
+   "y": 0.1629,
+   "cluster": 1,
+   "title": "Network Marketing"
+  },
+  {
+   "x": 0.255,
+   "y": 0.1517,
+   "cluster": 1,
+   "title": "Call Center Representative"
+  },
+  {
+   "x": -0.4241,
+   "y": 0.066,
+   "cluster": 6,
+   "title": "Subsea Installation Engineer"
+  },
+  {
+   "x": 0.1187,
+   "y": -0.1979,
+   "cluster": 5,
+   "title": "Data Entry Clerk / Administrative Assistant"
+  },
+  {
+   "x": 0.1605,
+   "y": -0.3224,
+   "cluster": 5,
+   "title": "Assistant Accountant for immediate start"
+  },
+  {
+   "x": 0.009,
+   "y": 0.0583,
+   "cluster": 1,
+   "title": "OR Specialty Coordinator"
+  },
+  {
+   "x": 0.1262,
+   "y": 0.083,
+   "cluster": 1,
+   "title": "Account Sales Managers $80-$130,000/yr"
+  },
+  {
+   "x": -0.1134,
+   "y": -0.1443,
+   "cluster": 6,
+   "title": "CUSTOMER SERVICES REP( FULL TIME POSITION)"
+  },
+  {
+   "x": 0.3945,
+   "y": 0.3083,
+   "cluster": 0,
+   "title": "OFFER Part Time Positions (Cash In Hand)"
+  },
+  {
+   "x": -0.2493,
+   "y": 0.1856,
+   "cluster": 2,
+   "title": "ObjC Developer"
+  },
+  {
+   "x": 0.4106,
+   "y": 0.3077,
+   "cluster": 0,
+   "title": "Urgent Jobs (Part Time Workers Needed)"
+  },
+  {
+   "x": 0.0671,
+   "y": -0.285,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": -0.2512,
+   "y": -0.2281,
+   "cluster": 6,
+   "title": "Junior Sales Rep  "
+  },
+  {
+   "x": 0.0883,
+   "y": -0.4336,
+   "cluster": 5,
+   "title": "Accounting Clerk($20/hr)"
+  },
+  {
+   "x": -0.1406,
+   "y": 0.1589,
+   "cluster": 6,
+   "title": " CNC Programmer"
+  },
+  {
+   "x": -0.0435,
+   "y": -0.5233,
+   "cluster": 5,
+   "title": "Office Assistant III"
+  },
+  {
+   "x": 0.1262,
+   "y": 0.083,
+   "cluster": 1,
+   "title": "Account Sales Managers $80-$130,000/yr"
+  },
+  {
+   "x": 0.1378,
+   "y": -0.068,
+   "cluster": 1,
+   "title": "JOB VACANCY IN ST.ERMIN'S HOTEL LONDON"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.3846,
+   "y": 0.2869,
+   "cluster": 0,
+   "title": "Staff Required For Part-Time Cash Positions."
+  },
+  {
+   "x": 0.1146,
+   "y": -0.3369,
+   "cluster": 5,
+   "title": "Data Entry"
+  },
+  {
+   "x": -0.2723,
+   "y": 0.1188,
+   "cluster": 6,
+   "title": " Production Technician   1781"
+  },
+  {
+   "x": 0.1527,
+   "y": 0.0646,
+   "cluster": 5,
+   "title": "Lawn and Maintenance Contractors "
+  },
+  {
+   "x": -0.2186,
+   "y": -0.5087,
+   "cluster": 5,
+   "title": "Administrative Manager"
+  },
+  {
+   "x": -0.2597,
+   "y": 0.0373,
+   "cluster": 6,
+   "title": "Data Center Migration App Lead for FULL-TIME Opportunity."
+  },
+  {
+   "x": -0.3241,
+   "y": 0.0471,
+   "cluster": 6,
+   "title": "Web Developer  "
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.1682,
+   "y": -0.4491,
+   "cluster": 5,
+   "title": "Data Entry"
+  },
+  {
+   "x": 0.2742,
+   "y": -0.2254,
+   "cluster": 5,
+   "title": "Financial Assistant position"
+  },
+  {
+   "x": 0.1523,
+   "y": 0.0688,
+   "cluster": 5,
+   "title": "Property Preservation Field Crews"
+  },
+  {
+   "x": 0.1292,
+   "y": -0.1465,
+   "cluster": 5,
+   "title": "Accountant"
+  },
+  {
+   "x": 0.2601,
+   "y": 0.1476,
+   "cluster": 1,
+   "title": "Call Center Representative"
+  },
+  {
+   "x": 0.3111,
+   "y": 0.2416,
+   "cluster": 0,
+   "title": "URGENT Part Timers & Full Timers Required."
+  },
+  {
+   "x": -0.1407,
+   "y": -0.0976,
+   "cluster": 6,
+   "title": " Data Entry Representative"
+  },
+  {
+   "x": 0.3887,
+   "y": 0.2909,
+   "cluster": 0,
+   "title": "Weekend Staff Needed, Part Time Cash Jobs."
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": -0.1325,
+   "y": -0.4136,
+   "cluster": 5,
+   "title": "Administrative Assistant/Office Assistant "
+  },
+  {
+   "x": 0.3848,
+   "y": 0.2959,
+   "cluster": 0,
+   "title": "Hiring Part Time Workers For Cash Position."
+  },
+  {
+   "x": 0.3309,
+   "y": 0.0012,
+   "cluster": 5,
+   "title": "Customer Service Associate"
+  },
+  {
+   "x": -0.4818,
+   "y": 0.1082,
+   "cluster": 6,
+   "title": "Project Engineer Medical Device   2048"
+  },
+  {
+   "x": 0.0225,
+   "y": 0.1026,
+   "cluster": 1,
+   "title": "Immediate Opening : Linux Administrator for Bahrain"
+  },
+  {
+   "x": 0.2989,
+   "y": 0.1974,
+   "cluster": 1,
+   "title": "Daily Money Team Representative"
+  },
+  {
+   "x": -0.0085,
+   "y": 0.0986,
+   "cluster": 1,
+   "title": "Fidelity"
+  },
+  {
+   "x": 0.4311,
+   "y": 0.0732,
+   "cluster": 1,
+   "title": "Customer Service Rep"
+  },
+  {
+   "x": 0.0683,
+   "y": -0.3361,
+   "cluster": 5,
+   "title": "Admin Assistant"
+  },
+  {
+   "x": 0.1444,
+   "y": -0.0067,
+   "cluster": 1,
+   "title": "Optician/Retail Sales FT"
+  },
+  {
+   "x": 0.0954,
+   "y": 0.0441,
+   "cluster": 1,
+   "title": "Vemma Brand Partner"
+  },
+  {
+   "x": 0.1187,
+   "y": -0.1979,
+   "cluster": 5,
+   "title": "Data Entry Clerk / Administrative Assistant"
+  },
+  {
+   "x": 0.0977,
+   "y": -0.227,
+   "cluster": 5,
+   "title": "Data Entry"
+  },
+  {
+   "x": 0.1015,
+   "y": 0.0708,
+   "cluster": 1,
+   "title": "Part time Agents wanted"
+  },
+  {
+   "x": -0.0098,
+   "y": -0.4312,
+   "cluster": 5,
+   "title": "Clerical Assistant"
+  },
+  {
+   "x": -0.0503,
+   "y": 0.1758,
+   "cluster": 1,
+   "title": "Senior JavaScript Developer"
+  },
+  {
+   "x": 0.1402,
+   "y": -0.001,
+   "cluster": 1,
+   "title": "Optical Sales"
+  },
+  {
+   "x": -0.087,
+   "y": 0.095,
+   "cluster": 6,
+   "title": "Controls Engineer - Troy, MI"
+  },
+  {
+   "x": 0.3977,
+   "y": 0.0325,
+   "cluster": 5,
+   "title": "Data Entry / Typist Work At Home"
+  },
+  {
+   "x": 0.0875,
+   "y": -0.4001,
+   "cluster": 5,
+   "title": "Data Entry/ Administrative Assistant"
+  },
+  {
+   "x": -0.5466,
+   "y": 0.0766,
+   "cluster": 6,
+   "title": "Quality Manager Automated Manufacturing   2141"
+  },
+  {
+   "x": 0.1263,
+   "y": 0.0859,
+   "cluster": 1,
+   "title": "Agency Sales Managers $150-$175,000/yr"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": -0.0324,
+   "y": -0.1569,
+   "cluster": 5,
+   "title": "DATA ENTRY"
+  },
+  {
+   "x": -0.3651,
+   "y": 0.0712,
+   "cluster": 6,
+   "title": " iSeries Team Lead"
+  },
+  {
+   "x": 0.3182,
+   "y": 0.2357,
+   "cluster": 0,
+   "title": "Cash In Hand Job (Urgent Staff Required)"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.0173,
+   "y": -0.1525,
+   "cluster": 5,
+   "title": "Call Center Representative"
+  },
+  {
+   "x": 0.0812,
+   "y": -0.3904,
+   "cluster": 5,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": -0.3942,
+   "y": 0.0417,
+   "cluster": 6,
+   "title": "Quant Analyst "
+  },
+  {
+   "x": 0.133,
+   "y": 0.0607,
+   "cluster": 1,
+   "title": "Sales Representative"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.3325,
+   "y": 0.0051,
+   "cluster": 5,
+   "title": "Customer Service Agent"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.0629,
+   "y": -0.0574,
+   "cluster": 6,
+   "title": "Data Entry Clerk "
+  },
+  {
+   "x": -0.0899,
+   "y": -0.0046,
+   "cluster": 6,
+   "title": "Urgently Required Senior VMware and MS Windows Systems Administrator for Qatar."
+  },
+  {
+   "x": 0.1262,
+   "y": 0.083,
+   "cluster": 1,
+   "title": "Account Sales Managers $80-$130,000/yr"
+  },
+  {
+   "x": 0.1262,
+   "y": 0.083,
+   "cluster": 1,
+   "title": "Account Sales Managers $80-$130,000/yr"
+  },
+  {
+   "x": -0.1826,
+   "y": 0.218,
+   "cluster": 2,
+   "title": "Director of Engineering: Applications"
+  },
+  {
+   "x": 0.3801,
+   "y": 0.3058,
+   "cluster": 0,
+   "title": "Part Time & Full Time Jobs, Cash In Hands."
+  },
+  {
+   "x": -0.0345,
+   "y": 0.1098,
+   "cluster": 1,
+   "title": "Vacancy in Halliburton"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.2245,
+   "y": 0.1629,
+   "cluster": 1,
+   "title": "Network Marketing"
+  },
+  {
+   "x": -0.1769,
+   "y": 0.1754,
+   "cluster": 6,
+   "title": "Manufacturing Engineer "
+  },
+  {
+   "x": 0.0543,
+   "y": -0.6409,
+   "cluster": 5,
+   "title": "Full-time Administrative Assistant."
+  },
+  {
+   "x": 0.0641,
+   "y": -0.2223,
+   "cluster": 5,
+   "title": "Assistant Accountant/immediate start"
+  },
+  {
+   "x": -0.514,
+   "y": 0.1106,
+   "cluster": 6,
+   "title": "Engineering Senior Supervisor, Livonia, MI"
+  },
+  {
+   "x": -0.2737,
+   "y": -0.2587,
+   "cluster": 6,
+   "title": "CUSTOMER SERVICE AGENT "
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.2343,
+   "y": -0.2802,
+   "cluster": 5,
+   "title": "Data Entry"
+  },
+  {
+   "x": -0.351,
+   "y": 0.0418,
+   "cluster": 6,
+   "title": "User Experience Designer | Mobile"
+  },
+  {
+   "x": 0.0463,
+   "y": -0.4215,
+   "cluster": 5,
+   "title": "Administrative Assistant - $19.35 Per Hr"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.062,
+   "y": -0.2156,
+   "cluster": 5,
+   "title": "Assistant Accountant/immediate start"
+  },
+  {
+   "x": 0.0266,
+   "y": -0.6855,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": 0.2727,
+   "y": 0.0241,
+   "cluster": 1,
+   "title": "Appointment setter"
+  },
+  {
+   "x": 0.4789,
+   "y": 0.2039,
+   "cluster": 3,
+   "title": "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.2876,
+   "y": 0.1031,
+   "cluster": 1,
+   "title": "MONEY MOTIVATED outside sales reps"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.0943,
+   "y": -0.5586,
+   "cluster": 5,
+   "title": "administrative assistant"
+  },
+  {
+   "x": 0.5028,
+   "y": 0.2114,
+   "cluster": 3,
+   "title": "Home Based Payroll Data Entry Clerk Position - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.1843,
+   "y": 0.033,
+   "cluster": 1,
+   "title": "customer service"
+  },
+  {
+   "x": -0.0514,
+   "y": -0.4528,
+   "cluster": 5,
+   "title": "Accounting Clerk/ $23"
+  },
+  {
+   "x": -0.4017,
+   "y": -0.1803,
+   "cluster": 6,
+   "title": "Journeyman Electrician    2175"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.0683,
+   "y": -0.3361,
+   "cluster": 5,
+   "title": "Admin Assistant "
+  },
+  {
+   "x": 0.1262,
+   "y": 0.083,
+   "cluster": 1,
+   "title": "Account Sales Managers $80-$130,000/yr"
+  },
+  {
+   "x": 0.4747,
+   "y": 0.2148,
+   "cluster": 3,
+   "title": "Payroll Data Coordinator Positions - Earn $100-$200 Daily "
+  },
+  {
+   "x": -0.2295,
+   "y": 0.0108,
+   "cluster": 6,
+   "title": "EDI Coordinator   2176"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.1292,
+   "y": -0.1465,
+   "cluster": 5,
+   "title": "Accountant"
+  },
+  {
+   "x": 0.0151,
+   "y": 0.0184,
+   "cluster": 1,
+   "title": "Customer Service Represenatative"
+  },
+  {
+   "x": 0.2215,
+   "y": 0.1612,
+   "cluster": 1,
+   "title": "Network Marketing"
+  },
+  {
+   "x": -0.1988,
+   "y": 0.0768,
+   "cluster": 6,
+   "title": "Ambulatory Surgery and Endoscopy RN Operations Manager  "
+  },
+  {
+   "x": 0.3412,
+   "y": -0.0072,
+   "cluster": 5,
+   "title": "Data Entry Clerk"
+  },
+  {
+   "x": 0.4747,
+   "y": 0.2148,
+   "cluster": 3,
+   "title": "Payroll Data Coordinator Positions - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": -0.0242,
+   "y": -0.143,
+   "cluster": 1,
+   "title": "Sales associate Home Security"
+  },
+  {
+   "x": 0.1382,
+   "y": 0.0543,
+   "cluster": 1,
+   "title": "CSR"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": -0.1029,
+   "y": -0.1505,
+   "cluster": 6,
+   "title": "CUSTOMER SERVICE REP"
+  },
+  {
+   "x": 0.0385,
+   "y": -0.2523,
+   "cluster": 5,
+   "title": "Finance Assistant"
+  },
+  {
+   "x": 0.1527,
+   "y": 0.0646,
+   "cluster": 5,
+   "title": "Lawn and Maintenance Contractors "
+  },
+  {
+   "x": 0.0012,
+   "y": -0.2524,
+   "cluster": 5,
+   "title": "administrative assistance"
+  },
+  {
+   "x": 0.1926,
+   "y": 0.0884,
+   "cluster": 1,
+   "title": "Customer Service Representative to Enroll People in NO COST Cell Phone Program"
+  },
+  {
+   "x": 0.2062,
+   "y": -0.2257,
+   "cluster": 5,
+   "title": "Accounts Payable Clerk"
+  },
+  {
+   "x": -0.0184,
+   "y": -0.2048,
+   "cluster": 5,
+   "title": "Customer Service Rep Call Center"
+  },
+  {
+   "x": 0.2587,
+   "y": 0.1405,
+   "cluster": 1,
+   "title": "Work From Home"
+  },
+  {
+   "x": 0.0484,
+   "y": -0.519,
+   "cluster": 5,
+   "title": "Front Desk Receptionist Professional"
+  },
+  {
+   "x": 0.0905,
+   "y": -0.6436,
+   "cluster": 5,
+   "title": "Executive Assistant"
+  },
+  {
+   "x": -0.121,
+   "y": -0.1024,
+   "cluster": 1,
+   "title": "Intern Development Assistant"
+  },
+  {
+   "x": 0.2082,
+   "y": 0.1969,
+   "cluster": 1,
+   "title": "Licensed Life Insurance Agent"
+  },
+  {
+   "x": 0.3239,
+   "y": 0.2441,
+   "cluster": 0,
+   "title": "Part Time Workers Wanted, Urgent Jobs."
+  },
+  {
+   "x": 0.2217,
+   "y": 0.1208,
+   "cluster": 1,
+   "title": "Tele RN  "
+  },
+  {
+   "x": 0.1575,
+   "y": -0.1248,
+   "cluster": 5,
+   "title": "Payroll Processor Entry Clerk Position - $50/Hr"
+  },
+  {
+   "x": 0.1447,
+   "y": 0.0257,
+   "cluster": 1,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": 0.0464,
+   "y": -0.4781,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": 0.2263,
+   "y": 0.127,
+   "cluster": 1,
+   "title": "NICU RN  "
+  },
+  {
+   "x": 0.1926,
+   "y": 0.0884,
+   "cluster": 1,
+   "title": "Customer Service Representative to Enroll People in NO COST Cell Phone Program"
+  },
+  {
+   "x": -0.1131,
+   "y": -0.3336,
+   "cluster": 5,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": 0.1276,
+   "y": 0.0898,
+   "cluster": 1,
+   "title": "Agency Sales Managers $150-$175,000/yr"
+  },
+  {
+   "x": -0.0537,
+   "y": 0.2987,
+   "cluster": 1,
+   "title": "Brand & Logo Design Contest"
+  },
+  {
+   "x": -0.2162,
+   "y": -0.0087,
+   "cluster": 6,
+   "title": "Intern Project Developer"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": -0.0872,
+   "y": -0.384,
+   "cluster": 5,
+   "title": "Required Assistant Accountant"
+  },
+  {
+   "x": -0.1277,
+   "y": -0.3425,
+   "cluster": 5,
+   "title": "Customer  Service Position "
+  },
+  {
+   "x": 0.2215,
+   "y": 0.1612,
+   "cluster": 1,
+   "title": "Network Marketing"
+  },
+  {
+   "x": 0.2058,
+   "y": -0.4991,
+   "cluster": 5,
+   "title": "Office Assistant"
+  },
+  {
+   "x": -0.1047,
+   "y": -0.5,
+   "cluster": 5,
+   "title": "Administrative"
+  },
+  {
+   "x": 0.0584,
+   "y": -0.4489,
+   "cluster": 5,
+   "title": "Administrative/Receptionist - $19.25/hr"
+  },
+  {
+   "x": 0.0671,
+   "y": -0.285,
+   "cluster": 5,
+   "title": "Administrative Assistant"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": -0.0275,
+   "y": -0.3435,
+   "cluster": 5,
+   "title": " Medical Intake Representative (Data Entry)"
+  },
+  {
+   "x": 0.2215,
+   "y": 0.1612,
+   "cluster": 1,
+   "title": "Network Marketing"
+  },
+  {
+   "x": -0.1909,
+   "y": -0.2515,
+   "cluster": 5,
+   "title": "Payroll Administrative Assistant"
+  },
+  {
+   "x": 0.0119,
+   "y": -0.6395,
+   "cluster": 5,
+   "title": "Administrative Clerk"
+  },
+  {
+   "x": -0.0857,
+   "y": 0.0973,
+   "cluster": 6,
+   "title": "Boys & Girls Club"
+  },
+  {
+   "x": 0.0805,
+   "y": -0.5894,
+   "cluster": 5,
+   "title": "RECEPTIONIST / DATA ENTRY / OFFICE CLERK"
+  },
+  {
+   "x": 0.0774,
+   "y": -0.3,
+   "cluster": 5,
+   "title": "Personal Assistant"
+  },
+  {
+   "x": 0.1447,
+   "y": 0.0257,
+   "cluster": 1,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": -0.0695,
+   "y": -0.3207,
+   "cluster": 5,
+   "title": "Payroll Clerk"
+  },
+  {
+   "x": 0.4747,
+   "y": 0.2148,
+   "cluster": 3,
+   "title": "Payroll Data Coordinator Positions - Earn $100-$200 Daily "
+  },
+  {
+   "x": 0.1736,
+   "y": -0.0011,
+   "cluster": 1,
+   "title": "Optician / Sales"
+  },
+  {
+   "x": 0.2374,
+   "y": 0.0708,
+   "cluster": 7,
+   "title": "Cruise Staff Wanted *URGENT*"
+  },
+  {
+   "x": 0.1158,
+   "y": -0.1921,
+   "cluster": 5,
+   "title": "Admin Clerk,Office Assistant,Customer"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.0782,
+   "y": -0.0822,
+   "cluster": 5,
+   "title": "Payroll Clerk"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": 0.3424,
+   "y": 0.2909,
+   "cluster": 1,
+   "title": "No Scams--Legitimate Work From Home Jobs"
+  },
+  {
+   "x": -0.1056,
+   "y": -0.3563,
+   "cluster": 5,
+   "title": "Data Entry Clerk"
+  },
+  {
+   "x": -0.0158,
+   "y": -0.4362,
+   "cluster": 5,
+   "title": "Receptionist - Administrative Assistant"
+  },
+  {
+   "x": -0.1833,
+   "y": -0.0028,
+   "cluster": 6,
+   "title": "Ninestone"
+  },
+  {
+   "x": 0.1296,
+   "y": -0.0029,
+   "cluster": 1,
+   "title": "Sales professionals"
+  },
+  {
+   "x": 0.1016,
+   "y": -0.4607,
+   "cluster": 5,
+   "title": "Receptionist/ Admin"
+  },
+  {
+   "x": 0.1566,
+   "y": -0.0398,
+   "cluster": 1,
+   "title": "Optician"
+  },
+  {
+   "x": 0.1213,
+   "y": -0.301,
+   "cluster": 5,
+   "title": "Administrative Clerk"
+  },
+  {
+   "x": -0.1285,
+   "y": -0.2701,
+   "cluster": 5,
+   "title": "Administrative Assistant "
+  },
+  {
+   "x": 0.3874,
+   "y": 0.3038,
+   "cluster": 0,
+   "title": "Hiring Part-Time Workers (CASH PAYING)"
+  },
+  {
+   "x": -0.193,
+   "y": -0.0183,
+   "cluster": 6,
+   "title": "Director of Nursing  "
+  },
+  {
+   "x": -0.1614,
+   "y": 0.087,
+   "cluster": 6,
+   "title": "J2EE Developer Required for Bahrain"
+  },
+  {
+   "x": -0.1774,
+   "y": 0.1129,
+   "cluster": 6,
+   "title": "Junior Project Manager"
+  },
+  {
+   "x": -0.0382,
+   "y": -0.5407,
+   "cluster": 5,
+   "title": "ADMINISTRATIVE ASSISTANT"
+  },
+  {
+   "x": 0.3943,
+   "y": 0.2969,
+   "cluster": 0,
+   "title": "PART TIMERS Required For Cash Pay Jobs."
+  },
+  {
+   "x": 0.0864,
+   "y": -0.5531,
+   "cluster": 5,
+   "title": "administrative assistant"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.0343,
+   "y": -0.0865,
+   "cluster": 1,
+   "title": "(Work from Home) $20/hr"
+  },
+  {
+   "x": -0.161,
+   "y": -0.3834,
+   "cluster": 5,
+   "title": "Office Clerk"
+  },
+  {
+   "x": 0.4181,
+   "y": 0.2947,
+   "cluster": 0,
+   "title": "CASH Paying Vacancies (Apply Today)"
+  },
+  {
+   "x": 0.1119,
+   "y": -0.1016,
+   "cluster": 1,
+   "title": "Administrative Specialist II  "
+  },
+  {
+   "x": 0.2307,
+   "y": -0.0775,
+   "cluster": 1,
+   "title": "customer service rep"
+  },
+  {
+   "x": 0.3231,
+   "y": 0.2419,
+   "cluster": 0,
+   "title": "Weekend Cash Jobs Part time & Full time."
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": -0.0063,
+   "y": -0.0854,
+   "cluster": 1,
+   "title": "Rooms Division Manager"
+  },
+  {
+   "x": -0.1135,
+   "y": 0.0942,
+   "cluster": 2,
+   "title": "Project Controls Technician"
+  },
+  {
+   "x": -0.0022,
+   "y": -0.4518,
+   "cluster": 5,
+   "title": "Data Entry, Admin"
+  },
+  {
+   "x": 0.4693,
+   "y": 0.2034,
+   "cluster": 3,
+   "title": "Home Based Payroll Typist/Data Entry Clerks Positions Available"
+  },
+  {
+   "x": 0.0358,
+   "y": -0.6244,
+   "cluster": 5,
+   "title": "Office Assistant/Clerical Administrative"
+  },
+  {
+   "x": 0.1263,
+   "y": 0.0859,
+   "cluster": 1,
+   "title": "Agency Sales Managers $150-$175,000/yr"
+  },
+  {
+   "x": 0.1699,
+   "y": -0.044,
+   "cluster": 1,
+   "title": "Vacancies At The Cafe Royal Hotel London"
+  },
+  {
+   "x": 0.0049,
+   "y": 0.0489,
+   "cluster": 6,
+   "title": "Executive Chef"
+  },
+  {
+   "x": 0.0683,
+   "y": -0.3361,
+   "cluster": 5,
+   "title": "Admin Assistant"
+  },
+  {
+   "x": -0.0691,
+   "y": -0.4768,
+   "cluster": 5,
+   "title": "Administrative Position "
+  },
+  {
+   "x": -0.0164,
+   "y": -0.254,
+   "cluster": 5,
+   "title": "Front Office Manager/reception"
+  },
+  {
+   "x": 0.1508,
+   "y": -0.1026,
+   "cluster": 5,
+   "title": "Data Entry Admin/Clerical Positions - Work From Home"
+  },
+  {
+   "x": -0.1816,
+   "y": -0.1202,
+   "cluster": 6,
+   "title": "Account Manager"
+  },
+  {
+   "x": 0.1565,
+   "y": -0.1117,
+   "cluster": 1,
+   "title": "Receptionist"
+  },
+  {
+   "x": -0.0164,
+   "y": -0.254,
+   "cluster": 5,
+   "title": "Front Office Manager/Reception"
+  },
+  {
+   "x": 0.4211,
+   "y": -0.0361,
+   "cluster": 5,
+   "title": "Remote Data Entry Rep Needed"
+  },
+  {
+   "x": 0.3293,
+   "y": 0.1445,
+   "cluster": 1,
+   "title": "vacancies,nannies,cooks,drivers and housekeepers needed"
+  },
+  {
+   "x": 0.0392,
+   "y": -0.5464,
+   "cluster": 5,
+   "title": "Data Entry / Administrative Assitstant / Admin Clerk / Office Assistant / Customer Service Rep"
+  },
+  {
+   "x": 0.103,
+   "y": 0.0724,
+   "cluster": 1,
+   "title": "Business Opportunity P/T,F/T Available"
+  },
+  {
+   "x": 0.1265,
+   "y": 0.0894,
+   "cluster": 1,
+   "title": "Agency Sales Managers $150-$175,000/yr"
+  },
+  {
+   "x": -0.4385,
+   "y": 0.1125,
+   "cluster": 6,
+   "title": "Hiring for SAP Supply Chain Manager"
+  },
+  {
+   "x": 0.1447,
+   "y": 0.0257,
+   "cluster": 1,
+   "title": "Customer Service Representative"
+  },
+  {
+   "x": 0.1516,
+   "y": -0.6346,
+   "cluster": 5,
+   "title": "Receptionist/ Administrative Assistan"
+  },
+  {
+   "x": 0.3186,
+   "y": 0.2398,
+   "cluster": 0,
+   "title": "Urgent Cash Jobs, Part Time & Full Time."
+  },
+  {
+   "x": 0.1223,
+   "y": -0.3234,
+   "cluster": 5,
+   "title": "Administrative Clerk"
+  },
+  {
+   "x": 0.3323,
+   "y": 0.0331,
+   "cluster": 1,
+   "title": "CSR"
+  },
+  {
+   "x": 0.0918,
+   "y": -0.4238,
+   "cluster": 5,
+   "title": "Admin Assistant\\Urgently"
+  },
+  {
+   "x": 0.0274,
+   "y": -0.5464,
+   "cluster": 5,
+   "title": "Data Entry"
+  },
+  {
+   "x": -0.0148,
+   "y": -0.5282,
+   "cluster": 5,
+   "title": "Office/Personal Assistant (15-20 hours per week)"
+  },
+  {
+   "x": 0.3124,
+   "y": 0.2053,
+   "cluster": 1,
+   "title": "Webcam Model"
+  },
+  {
+   "x": 0.1172,
+   "y": -0.2189,
+   "cluster": 5,
+   "title": "5 Guys"
+  },
+  {
+   "x": 0.1175,
+   "y": 0.0534,
+   "cluster": 1,
+   "title": "Sales Person Required"
+  },
+  {
+   "x": 0.1792,
+   "y": 0.0805,
+   "cluster": 1,
+   "title": "Military Benefits Counselor"
+  },
+  {
+   "x": -0.0223,
+   "y": -0.6326,
+   "cluster": 5,
+   "title": "ADMINISTRATIVE & OFFICE ASSISTANT"
+  },
+  {
+   "x": -0.0253,
+   "y": -0.5043,
+   "cluster": 5,
+   "title": "Customer Service/Accounting Clerk "
+  },
+  {
+   "x": 0.402,
+   "y": 0.2974,
+   "cluster": 0,
+   "title": "Student Positions Part-Time and Full-Time."
+  },
+  {
+   "x": 0.1122,
+   "y": 0.1304,
+   "cluster": 1,
+   "title": "Sales Associate"
+  },
+  {
+   "x": -0.2458,
+   "y": 0.176,
+   "cluster": 2,
+   "title": "Android Developer"
+  },
+  {
+   "x": 0.1344,
+   "y": -0.222,
+   "cluster": 5,
+   "title": "Payroll Clerk "
+  },
+  {
+   "x": 0.1863,
+   "y": 0.1066,
+   "cluster": 1,
+   "title": "Furniture mover"
+  }
+ ]
+}

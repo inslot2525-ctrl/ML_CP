@@ -1,0 +1,387 @@
+{
+ "n_posts": 17880,
+ "n_fake": 866,
+ "fake_share": 0.0484,
+ "missing_share": {
+  "company_profile": 0.185,
+  "requirements": 0.151,
+  "benefits": 0.403,
+  "salary_range": 0.84
+ },
+ "median_words": {
+  "real": 365,
+  "fake": 233
+ },
+ "by": {
+  "has_company_logo": [
+   {
+    "value": "No logo",
+    "fraud_rate": 0.1593,
+    "count": 3660
+   },
+   {
+    "value": "Has logo",
+    "fraud_rate": 0.0199,
+    "count": 14220
+   }
+  ],
+  "company_profile_missing": [
+   {
+    "value": "No company profile",
+    "fraud_rate": 0.1774,
+    "count": 3308
+   },
+   {
+    "value": "Has profile",
+    "fraud_rate": 0.0191,
+    "count": 14572
+   }
+  ],
+  "salary_given": [
+   {
+    "value": "Salary shown",
+    "fraud_rate": 0.0778,
+    "count": 2868
+   },
+   {
+    "value": "No salary",
+    "fraud_rate": 0.0428,
+    "count": 15012
+   }
+  ],
+  "telecommuting": [
+   {
+    "value": "Remote",
+    "fraud_rate": 0.0834,
+    "count": 767
+   },
+   {
+    "value": "On-site",
+    "fraud_rate": 0.0469,
+    "count": 17113
+   }
+  ],
+  "employment_type": [
+   {
+    "value": "Part-time",
+    "fraud_rate": 0.0928,
+    "count": 797
+   },
+   {
+    "value": "Unknown",
+    "fraud_rate": 0.0694,
+    "count": 3471
+   },
+   {
+    "value": "Other",
+    "fraud_rate": 0.0661,
+    "count": 227
+   },
+   {
+    "value": "Full-time",
+    "fraud_rate": 0.0422,
+    "count": 11620
+   },
+   {
+    "value": "Contract",
+    "fraud_rate": 0.0289,
+    "count": 1524
+   },
+   {
+    "value": "Temporary",
+    "fraud_rate": 0.0083,
+    "count": 241
+   }
+  ],
+  "required_experience": [
+   {
+    "value": "Executive",
+    "fraud_rate": 0.0709,
+    "count": 141
+   },
+   {
+    "value": "Entry level",
+    "fraud_rate": 0.0664,
+    "count": 2697
+   },
+   {
+    "value": "Unknown",
+    "fraud_rate": 0.0617,
+    "count": 7050
+   },
+   {
+    "value": "Not Applicable",
+    "fraud_rate": 0.0538,
+    "count": 1116
+   },
+   {
+    "value": "Director",
+    "fraud_rate": 0.0437,
+    "count": 389
+   },
+   {
+    "value": "Mid-Senior level",
+    "fraud_rate": 0.0297,
+    "count": 3809
+   },
+   {
+    "value": "Internship",
+    "fraud_rate": 0.0262,
+    "count": 381
+   },
+   {
+    "value": "Associate",
+    "fraud_rate": 0.0183,
+    "count": 2297
+   }
+  ],
+  "required_education": [
+   {
+    "value": "Some High School Coursework",
+    "fraud_rate": 0.7407,
+    "count": 27
+   },
+   {
+    "value": "Certification",
+    "fraud_rate": 0.1118,
+    "count": 170
+   },
+   {
+    "value": "High School or equivalent",
+    "fraud_rate": 0.0817,
+    "count": 2080
+   },
+   {
+    "value": "Master's Degree",
+    "fraud_rate": 0.0745,
+    "count": 416
+   },
+   {
+    "value": "Unknown",
+    "fraud_rate": 0.0556,
+    "count": 8105
+   },
+   {
+    "value": "Professional",
+    "fraud_rate": 0.0541,
+    "count": 74
+   },
+   {
+    "value": "Unspecified",
+    "fraud_rate": 0.0437,
+    "count": 1397
+   },
+   {
+    "value": "Doctorate",
+    "fraud_rate": 0.0385,
+    "count": 26
+   },
+   {
+    "value": "Some College Coursework Completed",
+    "fraud_rate": 0.0294,
+    "count": 102
+   },
+   {
+    "value": "Associate Degree",
+    "fraud_rate": 0.0219,
+    "count": 274
+   },
+   {
+    "value": "Bachelor's Degree",
+    "fraud_rate": 0.0194,
+    "count": 5145
+   },
+   {
+    "value": "Vocational",
+    "fraud_rate": 0.0,
+    "count": 49
+   }
+  ]
+ },
+ "by_industry": [
+  {
+   "value": "Oil & Energy",
+   "fraud_rate": 0.3798,
+   "count": 287
+  },
+  {
+   "value": "Accounting",
+   "fraud_rate": 0.3585,
+   "count": 159
+  },
+  {
+   "value": "Leisure, Travel & Tourism",
+   "fraud_rate": 0.2763,
+   "count": 76
+  },
+  {
+   "value": "Hospitality",
+   "fraud_rate": 0.1591,
+   "count": 88
+  },
+  {
+   "value": "Real Estate",
+   "fraud_rate": 0.1371,
+   "count": 175
+  },
+  {
+   "value": "Health, Wellness and Fitness",
+   "fraud_rate": 0.1181,
+   "count": 127
+  },
+  {
+   "value": "Hospital & Health Care",
+   "fraud_rate": 0.1026,
+   "count": 497
+  },
+  {
+   "value": "Telecommunications",
+   "fraud_rate": 0.076,
+   "count": 342
+  },
+  {
+   "value": "Entertainment",
+   "fraud_rate": 0.0676,
+   "count": 74
+  },
+  {
+   "value": "Consumer Services",
+   "fraud_rate": 0.067,
+   "count": 358
+  },
+  {
+   "value": "Staffing and Recruiting",
+   "fraud_rate": 0.063,
+   "count": 127
+  },
+  {
+   "value": "Transportation/Trucking/Railroad",
+   "fraud_rate": 0.0566,
+   "count": 53
+  }
+ ],
+ "by_function": [
+  {
+   "value": "Administrative",
+   "fraud_rate": 0.1889,
+   "count": 630
+  },
+  {
+   "value": "Accounting/Auditing",
+   "fraud_rate": 0.1368,
+   "count": 212
+  },
+  {
+   "value": "Other",
+   "fraud_rate": 0.0985,
+   "count": 325
+  },
+  {
+   "value": "Finance",
+   "fraud_rate": 0.0872,
+   "count": 172
+  },
+  {
+   "value": "Engineering",
+   "fraud_rate": 0.0838,
+   "count": 1348
+  },
+  {
+   "value": "Business Development",
+   "fraud_rate": 0.057,
+   "count": 228
+  },
+  {
+   "value": "Advertising",
+   "fraud_rate": 0.0556,
+   "count": 90
+  },
+  {
+   "value": "Project Management",
+   "fraud_rate": 0.0546,
+   "count": 183
+  },
+  {
+   "value": "Customer Service",
+   "fraud_rate": 0.0545,
+   "count": 1229
+  },
+  {
+   "value": "Data Analyst",
+   "fraud_rate": 0.0488,
+   "count": 82
+  },
+  {
+   "value": "Human Resources",
+   "fraud_rate": 0.0439,
+   "count": 205
+  },
+  {
+   "value": "Sales",
+   "fraud_rate": 0.0279,
+   "count": 1468
+  }
+ ],
+ "by_country": [
+  {
+   "value": "AU",
+   "fraud_rate": 0.1869,
+   "count": 214
+  },
+  {
+   "value": "US",
+   "fraud_rate": 0.0685,
+   "count": 10656
+  },
+  {
+   "value": "Unknown",
+   "fraud_rate": 0.0549,
+   "count": 346
+  },
+  {
+   "value": "PL",
+   "fraud_rate": 0.0395,
+   "count": 76
+  },
+  {
+   "value": "CA",
+   "fraud_rate": 0.0263,
+   "count": 457
+  },
+  {
+   "value": "ZA",
+   "fraud_rate": 0.025,
+   "count": 40
+  },
+  {
+   "value": "EG",
+   "fraud_rate": 0.0192,
+   "count": 52
+  },
+  {
+   "value": "AE",
+   "fraud_rate": 0.0185,
+   "count": 54
+  },
+  {
+   "value": "ES",
+   "fraud_rate": 0.0152,
+   "count": 66
+  },
+  {
+   "value": "IN",
+   "fraud_rate": 0.0145,
+   "count": 276
+  },
+  {
+   "value": "EE",
+   "fraud_rate": 0.0139,
+   "count": 72
+  },
+  {
+   "value": "GB",
+   "fraud_rate": 0.0096,
+   "count": 2384
+  }
+ ]
+}

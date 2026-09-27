@@ -1,0 +1,73 @@
+/* App-level styles on top of Mantine. */
+:root {
+  --fh-page: var(--mantine-color-gray-0);
+  --fh-fake-soft: rgba(227, 73, 72, 0.16);
+  --fh-rule-soft: rgba(236, 131, 90, 0.28);
+  --fh-rule-line: #d03b3b;
+  --fh-hero: linear-gradient(135deg, #184f95 0%, #2a78d6 48%, #4a3aa7 100%);
+}
+[data-mantine-color-scheme='dark'] {
+  --fh-page: var(--mantine-color-dark-8);
+  --fh-fake-soft: rgba(230, 103, 103, 0.26);
+  --fh-rule-soft: rgba(236, 131, 90, 0.3);
+  --fh-rule-line: #e66767;
+}
+[data-mantine-color-scheme='dark'] .mantine-Card-root,
+[data-mantine-color-scheme='dark'] .mantine-AppShell-navbar,
+[data-mantine-color-scheme='dark'] .mantine-AppShell-header {
+  background: var(--mantine-color-dark-7);
+}
+
+body { background: var(--fh-page); }
+.mantine-AppShell-main { background: var(--fh-page); }
+
+/* Navbar links */
+.fh-nav .mantine-NavLink-root { border-radius: var(--mantine-radius-md); margin-bottom: 2px; font-weight: 500; }
+
+/* Gradient hero */
+.fh-hero {
+  position: relative; overflow: hidden; color: #fff; background: var(--fh-hero);
+  border-radius: var(--mantine-radius-xl); padding: clamp(20px, 4vw, 44px);
+}
+.fh-hero::after {
+  content: ''; position: absolute; inset: auto -120px -160px auto; width: 420px; height: 420px; border-radius: 50%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.18), transparent 65%); pointer-events: none;
+}
+.fh-hero::before {
+  content: ''; position: absolute; inset: -140px auto auto -100px; width: 320px; height: 320px; border-radius: 50%;
+  background: radial-gradient(circle, rgba(134, 182, 239, 0.35), transparent 65%); pointer-events: none;
+}
+.fh-hero > * { position: relative; z-index: 1; }
+.fh-glass {
+  background: rgba(255, 255, 255, 0.12); border: 1px solid rgba(255, 255, 255, 0.22); border-radius: var(--mantine-radius-lg);
+  backdrop-filter: blur(6px);
+}
+.fh-hero textarea { background: rgba(255, 255, 255, 0.96) !important; color: #0b0b0b !important; }
+
+/* Page header icon */
+.fh-title-icon { box-shadow: 0 8px 20px -8px rgba(42, 120, 214, 0.6); }
+
+/* Stat card accent */
+.fh-stat { position: relative; overflow: hidden; }
+.fh-stat::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: var(--fh-accent, var(--mantine-color-brand-5)); }
+
+/* Highlighted post */
+.fh-post { line-height: 1.9; white-space: pre-wrap; overflow-wrap: anywhere; font-size: 15px; }
+.fh-post mark.w { background: var(--fh-fake-soft); color: inherit; border-radius: 4px; padding: 1px 3px; }
+.fh-post mark.r { background: var(--fh-rule-soft); color: inherit; border-radius: 4px; padding: 1px 3px; border-bottom: 2px solid var(--fh-rule-line); }
+
+/* Hover lift for clickable cards */
+.fh-lift { transition: transform 0.15s ease, box-shadow 0.15s ease; }
+.fh-lift:hover { transform: translateY(-2px); box-shadow: var(--mantine-shadow-md); }
+
+/* Chart tooltip */
+.fh-tt {
+  background: var(--mantine-color-body); border: 1px solid var(--mantine-color-default-border); border-radius: 8px;
+  padding: 6px 10px; font-size: 13px; box-shadow: var(--mantine-shadow-sm); max-width: 280px;
+}
+.recharts-surface:focus, .recharts-wrapper:focus { outline: none; }
+
+/* Swatches in legends */
+.fh-swatch { width: 10px; height: 10px; border-radius: 3px; display: inline-block; flex: none; }
+
+@media (prefers-reduced-motion: reduce) { .fh-lift { transition: none; } .fh-lift:hover { transform: none; } }
